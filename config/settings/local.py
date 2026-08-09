@@ -19,6 +19,7 @@ ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]  # noqa: S104
 # ------------------------------------------------------------------------------
 # https://pypi.org/project/django-cors-headers/
 # CORS_ALLOW_ALL_ORIGINS = True
+
 # CORS_ALLOWED_ORIGINS = [
 #     "http://localhost:3000",
 #     "http://127.0.0.1:8000",
@@ -26,20 +27,6 @@ ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]  # noqa: S104
 #     "http://127.0.0.1:3000",
 # ]
 
-<<<<<<< HEAD
-=======
-# CORSHEADERS
-# ------------------------------------------------------------------------------
-# https://pypi.org/project/django-cors-headers/
-# CORS_ALLOW_ALL_ORIGINS = True
-# CORS_ALLOWED_ORIGINS = [
-#     "http://localhost:3000",
-#     "http://127.0.0.1:8000",
-#     "http://localhost:8000",
-#     "http://127.0.0.1:3000",
-# ]
-
->>>>>>> eb1e4f9 (Update configuration and dependencies for improved functionality)
 # CACHES
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#caches
