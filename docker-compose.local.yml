@@ -1,0 +1,52 @@
+volumes:
+  dj_tariff_local_postgres_data: {}
+  dj_tariff_local_postgres_data_backups: {}
+  es_data: {}
+
+
+services:
+  django:
+    build:
+      context: .
+      dockerfile: ./compose/local/django/Dockerfile
+    image: dj_tariff_local_django
+    container_name: dj_tariff_local_django
+    depends_on:
+      - postgres
+      - elasticsearch
+    volumes:
+      - /app/.venv
+      - .:/app:z
+    env_file:
+      - ./.envs/.local/.django
+      - ./.envs/.local/.postgres
+      - ./.envs/.local/.elasticsearch
+    ports:
+      - '8000:8000'
+    command: /start
+
+  postgres:
+    build:
+      context: .
+      dockerfile: ./compose/production/postgres/Dockerfile
+    image: dj_tariff_production_postgres
+    container_name: dj_tariff_local_postgres
+    volumes:
+      - dj_tariff_local_postgres_data:/var/lib/postgresql/18/docker
+      - dj_tariff_local_postgres_data_backups:/backups
+    env_file:
+      - ./.envs/.local/.postgres
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:9.5.0
+    container_name: dj_tariff_local_elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+    env_file:
+      - ./.envs/.local/.elasticsearch
+    ports:
+      - '9200:9200'

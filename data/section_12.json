@@ -1,0 +1,2620 @@
+[
+    {
+            "data": {
+                "code": null,
+                "name": "XII. Ayakkabılar, Başlıklar, Şemsiyeler, Güneş Şemsiyeleri, Bastonlar, İskemle Bastonlar, Kemerler, Kırbaçlar Ve Bunların Aksamı; Hazırlanmış Tüyler Ve Bunlardan Mamul Eşya; Yapma Çiçekler; İnsan Saçından Mamul Eşya",
+                "node_type": "SECTION",
+                "description_detail": null
+
+            },
+            "children": [
+                {
+                    "data": {
+                      "code": "64",
+                      "name": "Ayakkabılar, Getrler, Tozluklar Ve Benzeri Eşya; Bunların Aksamı",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "6401",
+                          "name": "Dış tabanı ve yüzü kauçuk veya plastik maddeden olan su geçirmez ayakkabılar (ayakkabının yüzü, tabana dikmek, perçinlemek, çivilemek, vidalamak ve benzeri işlemlerle tutturulmamış veya birleştirilmemiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "640110000000",
+                              "name": "Metalden koruyucu burunlu ayakkabılar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğer ayakkabılar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640192",
+                                  "name": "Bileği örtüp dizi örtmeyenler:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640192100000",
+                                      "name": "Yüzü kauçuktan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640192900000",
+                                      "name": "Yüzü plastik maddeden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640199000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6402",
+                          "name": "Dış tabanı ve yüzü kauçuk veya plastik maddeden olan diğer ayakkabılar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Spor ayakkabıları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640212",
+                                  "name": "Kayak ayakkabıları, kuzey disiplini kayak ayakkabıları ve kar sörfü için ayakkabılar",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640212100000",
+                                      "name": "Kayak ayakkabıları, kuzey disiplini kayak ayakkabıları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640212900000",
+                                      "name": "Kar sörfü için ayakkabılar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640219000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "640220000000",
+                              "name": "Ayakkabıların yüzündeki kayışların veya ince şeritlerin tabandaki deliklerden geçirilmek suretiyle ayakkabı yüzünün tabana tutturulduğu diğer ayakkabılar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğer ayakkabılar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640291",
+                                  "name": "Bileği örtenler",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640291100000",
+                                      "name": "Koruyucu metal burun ile mücehhez olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640291900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640299",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640299050000",
+                                      "name": "Koruyucu metal burun ile mücehhez olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640299100000",
+                                          "name": "Yüzü kauçuktan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Yüzü plastik maddeden olanlar:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası kesilip çıkarılmış olanlar:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640299310000",
+                                                  "name": "Taban ile birlikte topuk yüksekliği 3 cm. den fazla olanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "640299390000",
+                                                  "name": "Diğerleri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "640299500000",
+                                              "name": "Terlik ve ev içinde giyilen diğer ayakkabılar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640299910000",
+                                                  "name": "İç tabanının uzunluğu 24 cm. den az olanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "",
+                                                  "name": "İç tabanının uzunluğu 24 cm. veya daha fazla olanlar:",
+
+                                                  "node_type": "HEADING",
+                                                  "description_detail": null
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": {
+                                                      "code": "640299930000",
+                                                      "name": "Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "data": {
+                                                      "code": "",
+                                                      "name": "Diğerleri:",
+
+                                                      "node_type": "HEADING",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "data": {
+                                                          "code": "640299960000",
+                                                          "name": "Erkekler için",
+
+                                                          "node_type": "GTIP",
+                                                          "description_detail": null
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "data": {
+                                                          "code": "640299980000",
+                                                          "name": "Kadınlar için",
+
+                                                          "node_type": "GTIP",
+                                                          "description_detail": null
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6403",
+                          "name": "Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü deriden olan ayakkabılar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Spor ayakkabıları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640312000000",
+                                  "name": "Kayak ayakkabıları kuzey disiplini kayak ayakkabıları ve kar sörfü için ayakkabılar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640319000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "640320000000",
+                              "name": "Dış tabanı tabii köseleden ve yüzü ayağın üstünden geçip baş parmağa dolanan deri bir şeritten olan ayakkabılar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "640340",
+                              "name": "Diğer ayakkabılar (metalden koruyucu burnu olanlar)",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640340000011",
+                                  "name": "Dış tabanı tabi köseleden ayakkabılar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640340000012",
+                                  "name": "Dış tabanı terkip yolu ile elde edilen köseleden ayakkabılar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640340000013",
+                                  "name": "Dış tabanı kauçuk veya suni plastik maddelerden ayakkabılar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğer ayakkabılar (dış tabanı tabii köseleden olanlar):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640351",
+                                  "name": "Bileği örtenler:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640351050000",
+                                      "name": "İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Bileği örten fakat baldırı örtmeyenler, iç taban uzunluğu:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640351110000",
+                                              "name": "24 cm. den az olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "24 cm. veya daha fazla olanlar:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640351150000",
+                                                  "name": "Erkekler için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "640351190000",
+                                                  "name": "Kadınlar için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri, iç taban uzunluğu:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640351910000",
+                                              "name": "24 cm. den az olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "24 cm. veya daha fazla olanlar:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640351950000",
+                                                  "name": "Erkekler için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "640351990000",
+                                                  "name": "Kadınlar için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640359",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640359050000",
+                                      "name": "İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası kesilip çıkarılmış olanlar:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640359110000",
+                                              "name": "Tabanı ile birlikte topuk yüksekliği 3 cm. den fazla olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri, iç taban uzunluğu:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640359310000",
+                                                  "name": "24 cm. den az olanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "",
+                                                  "name": "24 cm. veya daha fazla olanlar:",
+
+                                                  "node_type": "HEADING",
+                                                  "description_detail": null
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": {
+                                                      "code": "640359350000",
+                                                      "name": "Erkekler için",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "data": {
+                                                      "code": "640359390000",
+                                                      "name": "Kadınlar için",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Terlikler ve ev içinde giyilen diğer ayakkabılar",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640359500011",
+                                              "name": "Erkekler için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "640359500012",
+                                              "name": "Kadınlar için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "640359500013",
+                                              "name": "Çocuklar ve bebekler için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri, iç taban uzunluğu:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640359910000",
+                                              "name": "24 cm. den az olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "24 cm. veya daha fazla olanlar:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640359950000",
+                                                  "name": "Erkekler için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "640359990000",
+                                                  "name": "Kadınlar için",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640391",
+                                  "name": "Bileği örtenler:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğer ayakkabılar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640399",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640399050000",
+                                      "name": "İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası kesilip çıkarılmış olanlar:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640399110000",
+                                              "name": "Dış tabanı ile birlikte topuk yüksekliği 3 cm. den fazla olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri, iç taban uzunluğu:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640399310000",
+                                                  "name": "24 cm. den az olanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "",
+                                                  "name": "Diğerleri:",
+
+                                                  "node_type": "HEADING",
+                                                  "description_detail": null
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": {
+                                                      "code": "640399330000",
+                                                      "name": "Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "data": {
+                                                      "code": "",
+                                                      "name": "Diğerleri:",
+
+                                                      "node_type": "HEADING",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "data": {
+                                                          "code": "640399360000",
+                                                          "name": "Erkekler için",
+
+                                                          "node_type": "GTIP",
+                                                          "description_detail": null
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "data": {
+                                                          "code": "640399380000",
+                                                          "name": "Kadınlar için",
+
+                                                          "node_type": "GTIP",
+                                                          "description_detail": null
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "640399500000",
+                                          "name": "Terlikler ve ev içinde giyilen diğer ayakkabılar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri, iç taban uzunluğu:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640399910000",
+                                              "name": "24 cm. den az olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "24 cm. veya daha fazla olanlar:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "640399930000",
+                                                  "name": "Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "",
+                                                  "name": "Diğerleri:",
+
+                                                  "node_type": "HEADING",
+                                                  "description_detail": null
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": {
+                                                      "code": "640399960000",
+                                                      "name": "Erkekler için",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "data": {
+                                                      "code": "640399980000",
+                                                      "name": "Kadınlar için",
+
+                                                      "node_type": "GTIP",
+                                                      "description_detail": null
+                                                    },
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "640391050000",
+                          "name": "İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Bileği örten fakat baldırı örtmeyenler, iç taban uzunluğu:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640391110000",
+                                      "name": "24 cm. den az olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "24 cm. veya daha fazla olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640391130000",
+                                          "name": "Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640391160000",
+                                              "name": "Erkekler için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "640391180000",
+                                              "name": "Kadınlar için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri, iç taban uzunluğu:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640391910000",
+                                      "name": "24 cm. den az olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "24 cm. veya daha fazla olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640391930000",
+                                          "name": "Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "640391960000",
+                                              "name": "Erkekler için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "640391980000",
+                                              "name": "Kadınlar için",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6404",
+                          "name": "Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü dokumaya elverişli maddelerden olan ayakkabılar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Dış tabanı kauçuktan veya plastik maddeden olan ayakkabılar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640411000000",
+                                  "name": "Spor ayakkabıları, tenis ayakkabıları, basketbol ayakkabıları, jimnastik ayakkabıları, antrenman ayakkabıları ve benzerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640419",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640419100000",
+                                      "name": "Terlikler ve ev içinde giyilen diğer ayakkabılar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640419900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "640420",
+                              "name": "Dış tabanı tabii veya terkip yoluyla elde edilen köseleden ayakkabılar:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640420100000",
+                                  "name": "Terlikler ve ev içinde giyilen diğer ayakkabılar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640420900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6405",
+                          "name": "Diğer ayakkabılar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "640510000000",
+                              "name": "Yüzü tabii veya terkip yoluyla elde edilen deriden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "640520",
+                              "name": "Yüzü dokumaya elverişli maddelerden:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640520100000",
+                                  "name": "Dış tabanı ahşap veya mantardan",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Dış tabanı diğer maddelerden:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640520910000",
+                                      "name": "Terlikler ve ev içinde giyilen diğer ayakkabılar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640520990000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "640590",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640590100000",
+                                  "name": "Dış tabanı kauçuk, plastik madde, tabii veya terkip yolu ile elde edilen köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "640590900000",
+                                  "name": "Dış tabanı diğer maddelerden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6406",
+                          "name": "Ayakkabı aksamı (dış tabanlar dışındaki tabanlara tutturulmuş veya tutturulmamış ayakkabı yüzleri dahil); çıkarılabilir iç tabanlar, topuk rampası ve benzeri eşya; getrler ve tozluklar, dizlikler ve benzeri eşya; ve bunların aksamı:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "640610",
+                              "name": "Ayakkabı yüzleri ve bunların aksamı (takviye parçaları hariç):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640610100000",
+                                  "name": "Deriden",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğer maddelerden:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640610901000",
+                                      "name": "Çelikten olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640610909000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "640620",
+                              "name": "Dış tabanlar ve topuklar (kauçuktan veya plastik maddelerden):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Kauçuktan",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640620100011",
+                                      "name": "Dış taban",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640620100012",
+                                      "name": "Topuklar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Plastik maddelerden",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640620900011",
+                                      "name": "Dış taban",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640620900012",
+                                      "name": "Topuklar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "640690300000",
+                                  "name": "Dış tabanı olmayan fakat iç taban veya diğer iç kısımlara tutturulmuş ayakkabı yüzlerinden meydana gelenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Çıkarılabilen iç tabanlar ve diğer çıkarılabilen aksesuar:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Demir döküm, demir veya çelikten veya aluminyumdan olanlar",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640690501011",
+                                          "name": "Çıkarılabilen iç tabanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "640690501019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Bakırdan olanlar",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640690503011",
+                                          "name": "Çıkarılabilen iç tabanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "640690503019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "640690509011",
+                                          "name": "Çıkarılabilen iç tabanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "640690509019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "640690600000",
+                                  "name": "Tabii veya terkip yoluyla elde edilen deriden ayakkabı dış tabanları",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "640690901000",
+                                      "name": "Demir döküm, demir veya çelikten veya aluminyumdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640690903000",
+                                      "name": "Bakırdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "640690909000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "code": "65",
+                      "name": "Başlıklar Ve Aksamı",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "650100",
+                          "name": "Keçeden şapka taslakları, diskler ve üstüvaneler (kalıplanarak şekil verilmemiş veya kenar yapılmamış) (boyuna yarılmış olanlar dahil):",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Şapka taslakları :",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "650100001011",
+                                  "name": "Kıl keçesinden veya yün ve kıl keçesinden",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "650100001019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri :",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "650100009011",
+                                  "name": "Kıl keçesinden veya yün ve kıl keçesinden",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "650100009019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "650200",
+                          "name": "Her nevi maddeden şeritleri birleştirmek suretiyle yapılan veya örülen şapka taslakları (kalıplanarak şekil verilmemiş veya kenarları yapılmamış, astarlanmamış, donatılmamış):",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "650200001000",
+                              "name": "Bitkisel maddelerden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "650200009000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "650400000000",
+                          "name": "Her nevi maddeden şeritlerin birleştirilmesi veya örülmesi suretiyle yapılmış şapkalar ve diğer başlıklar (astarlanmış veya donatılmış olsun olmasın)",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "6505",
+                          "name": "Dantel, keçe veya diğer dokumaya elverişli maddelerden yapılmış veya örülmüş veya kroşe şapkalar ve diğer başlıklar, parça halinde (fakat şerit halinde olanlar hariç) (astarlanmış veya donatılmış olsun olmasın); her türlü maddeden saç fileleri (astarlanmış veya donatılmış olsun olmasın):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "650500100000",
+                              "name": "65.01 Pozisyonunda yer alan şapka taslakları ve disklerinden yapılmış kıl keçesinden  veya yün ve kılın keçesinden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "650500300000",
+                                  "name": "Siperlikli kasket, kep ve benzerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Bereler, boneler, takkeler, fesler ve benzerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "650500901000",
+                                          "name": "Örülmüş maddelerden (doldurulmuş veya keçelenmiş)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "650500902000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Saç Fileleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "650500903000",
+                                              "name": "İnsan saçından olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "650500904000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "650500909000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6506",
+                          "name": "Diğer başlıklar (astarlanmış veya donatılmış olsun olmasın):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "650610",
+                              "name": "Koruyucu başlıklar:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Plastikten:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "650610101000",
+                                      "name": "Madenci başlıkları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "650610102000",
+                                      "name": "Motosiklet ve bisikletçi başlıkları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "650610109000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğer maddelerden:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "650610801000",
+                                      "name": "Metalden madenci başlıkları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "650610802000",
+                                      "name": "Motosiklet ve bisikletçi başlıkları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "650610809000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "650691000000",
+                                  "name": "Kauçuktan veya plastikten",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "650699",
+                                  "name": "Diğer maddelerden olanlar",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "650699100000",
+                                      "name": "65.01 Pozisyonunda yer alan şapka taslakları ve disklerinden yapılmış kıl keçesinden  veya yün ve kılın keçesinden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "650699900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "650700",
+                          "name": "Başlıklara mahsus iç şeritler, astarlar, kılıflar, siperlikler ve çenealtı kayışları",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "650700000011",
+                              "name": "İç şeritler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "650700000019",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "code": "66",
+                      "name": "Şemsiyeler, Güneş Şemsiyeleri, Bastonlar, İskemle Bastonlar, Kamçılar, Kırbaçlar Ve Bunların Aksamı",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "6601",
+                          "name": "Şemsiyeler ve güneş şemsiyeleri (bastonlu şemsiyeler, bahçe şemsiyeleri ve benzeri şemsiyeler dahil):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "660110000000",
+                              "name": "Bahçe şemsiyeleri ve benzeri şemsiyeler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "660191000000",
+                                  "name": "İçiçe girebilen milleri olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "660199",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "660199200000",
+                                      "name": "Kılıfları dokunmuş mensucattan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "660199900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "660200000000",
+                          "name": "Bastonlar, iskemle bastonlar, kamçılar, kırbaçlar ve benzerleri",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "6603",
+                          "name": "66.01 ve 66.02 Pozisyonlarına dahil eşyanın aksam, süs ve teferruatı:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "660320000000",
+                              "name": "Şemsiyelerin bir araya getirilmiş tel mesnetleri (mil üzerine monte edilenler dahil)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "660390",
+                              "name": "Diğerleri :",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "660390100000",
+                                  "name": "Saplar ve uçlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "660390901000",
+                                      "name": "66.01 Pozisyonuna giren eşyanın aksamı",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "660390909000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "code": "67",
+                      "name": "Hazırlanmış İnce Ve Kalın Kuş Tüyleri Ve Bunlardan Eşya; Yapma Çiçekler; İnsan Saçından Eşya",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "670100",
+                          "name": "Kuşların tüylü derileri ve tüylü diğer kısımları, kalın tüyler,ince tüyler ve bu maddelerden mamul eşya (05.05 pozisyonuna giren eşya ile işlenmiş kalem tüyler ve uçlar hariç)",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "670100000011",
+                              "name": "Kuşların tüylü derileri ve tüylü diğer kısımları",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "670100000012",
+                              "name": "Kalın veya ince tüyler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "670100000013",
+                              "name": "Bunlardan mamul eşya",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6702",
+                          "name": "Yapma çicekler, yapraklı dallar, meyvalar ve bunların aksamı; yapma çiçekler, yapraklı dallar ve meyvalardan mamul eşya:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "670210",
+                              "name": "Plastikten olanlar",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "670210000011",
+                                  "name": "Yapma çiçekler, yapraklı dallar, meyvalar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670210000012",
+                                  "name": "Yapma çiçekler, yapraklı dallar, meyvalardan mamul eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670210000015",
+                                  "name": "Aksamı",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "670290",
+                              "name": "Diğer maddelerden olanlar",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "670290000011",
+                                  "name": "Yapma çiçekler, yapraklı dallar, meyvalar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670290000012",
+                                  "name": "Yapma çiçekler, yapraklı dallar, meyvalardan mamul eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670290000015",
+                                  "name": "Aksamı",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "670300",
+                          "name": "İnsan saçı (kök uçları bir tarafa getirilerek birbirine paralel şekilde tertiplenmiş, inceltilmiş, beyazlatılmış veya diğer surette hazırlanmış); peruk veya benzeri eşya imalinde kullanılmak üzere hazırlanmış yün,  diğer hayvan kılları veya dokumaya elverişli diğer maddeler",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "670300000011",
+                              "name": "Sadece kök uçları bir araya getirilerek birbirine paralel şekilde tertiplenmiş insan saçları",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "670300000019",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "6704",
+                          "name": "İnsan saçından, hayvan kıllarından veya dokumaya elverişli diğer maddelerden peruklar, sakallar, kaşlar, kirpikler, perçemler ve benzerleri; tarifenin başka yerinde belirtilmeyen veya yer almayan insan saçından diğer eşya:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Dokumaya elverişli sentetik maddelerden:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "670411000000",
+                                  "name": "Peruklar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670419000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "670420",
+                              "name": "İnsan saçından",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "670420000011",
+                                  "name": "Peruklar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670420000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "670490",
+                              "name": "Diğer maddelerden",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "670490000011",
+                                  "name": "Peruklar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "670490000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+            ]
+        }
+]

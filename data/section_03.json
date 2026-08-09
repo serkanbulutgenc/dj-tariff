@@ -1,0 +1,3892 @@
+[
+    {
+            "data": {
+                "code": null,
+                "name": "III. Hayvansal, Bitkisel Veya Mikrobiyal Katı Ve Sıvı Yağlar Ve Bunların Parçalanma Ürünleri; Hazır Yemeklik Katı Yağlar; Hayvansal Veya Bitkisel Mumlar",
+                "node_type": "SECTION",
+                "description_detail": null
+
+            },
+            "children": [
+                {
+                    "data": {
+                      "code": "15",
+                      "name": "Hayvansal, Bitkisel Veya Mikrobiyal Katı Ve Sıvı Yağlar Ve Bunların Parçalanma Ürünleri; Hazır Yemeklik Katı Yağlar; Hayvansal Ve Bitkisel Mumlar",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "1501",
+                          "name": "Katı domuz yağı (lard dahil) ve kümes  hayvanlarının katı yağları (02.09 ve 15.03 pozisyonlarındakiler hariç):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150110",
+                              "name": "Lard :",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150110100000",
+                                  "name": "Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150110900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150120",
+                              "name": "Diğer domuz yağı :",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150120100000",
+                                  "name": "Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150120900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150190000000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1502",
+                          "name": "Sığır, koyun veya keçi yağları ( 15.03 pozisyonundakiler hariç) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150210",
+                              "name": "Donyağı:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150210100000",
+                                  "name": "Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150210900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150290",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150290100000",
+                                  "name": "Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150290900011",
+                                      "name": "Sığır yağları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150290900012",
+                                      "name": "Koyun ve keçi yağları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "150300",
+                          "name": "Lard stearini, sıvı lard, oleostearin, oleoyağ ve sıvı don yağı (emülsiyon haline getirilmemiş, karıştırılmamış veya başka şekilde hazırlanmamış):",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Lard stearini ve oleostearin:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Sınai amaçlar için kullanılanlar:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150300111000",
+                                      "name": "Lard stearini",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150300112000",
+                                      "name": "Oleostearin",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150300191000",
+                                      "name": "Lard stearini",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150300192000",
+                                      "name": "Oleostearin",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150300300000",
+                              "name": "Sınai amaçlar için kullanılan sıvı donyağı (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150300901000",
+                                  "name": "Sıvı lard",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150300909000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1504",
+                          "name": "Balıkların veya deniz memelilerinin katı ve sıvı yağları ve bunların fraksiyonları (rafine edilmiş olsun olmasın,fakat kimyasal olarak değiştirilmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150410",
+                              "name": "Balık karaciğerlerinin sıvı yağları ve bunların fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Gramında 2 500 ünite veya daha az A vitamini içerenler:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150410101000",
+                                      "name": "Tababette kullanılanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150410109000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150410910000",
+                                      "name": "Tütün balıklarından olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "150410991000",
+                                          "name": "Tababette kullanılanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "150410999000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150420",
+                              "name": "Balıkların katı ve sıvı yağları ve bunların fraksiyonları ( karaci ğerlerin sıvı yağları hariç):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150420100000",
+                                  "name": "Katı fraksiyonlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150420900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150430",
+                              "name": "Deniz memelilerinin katı ve sıvı yağları ve bunların fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150430100000",
+                                  "name": "Katı fraksiyonlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150430900011",
+                                      "name": "Balina  yağı",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150430900019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "150500",
+                          "name": "Yapağı yağı ve bundan elde edilen yağlı maddeler (lanolin dahil):",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150500100000",
+                              "name": "Ham yapağı yağı",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150500900011",
+                                  "name": "Lanolin",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150500900019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "150600",
+                          "name": "Diğer hayvansal katı ve sıvı yağlar ve bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş)",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150600000011",
+                              "name": "At cinsi hayvanlar, hipopotam, ayı, tavşan, kara yengeci, kaplumbağa ve benzerlerinin katı yağları (kemik, kemik iliği ve döküntülerinden elde edilen katı yağlar dahil)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "150600000012",
+                              "name": "Paça yağları",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "150600000013",
+                              "name": "Sıvı kemik yağı",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "150600000019",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1507",
+                          "name": "Soya yağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150710",
+                              "name": "Ham yağ (sakızı ayrılmış olsun olmasın):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150710100000",
+                                  "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150710900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150790",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150790100000",
+                                  "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150790900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1508",
+                          "name": "Yer fıstığı yağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150810",
+                              "name": "Ham yağ:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150810100000",
+                                  "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150810900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150890",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150890100000",
+                                  "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150890900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1509",
+                          "name": "Zeytinyağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "150920",
+                              "name": "Natürel sızma zeytinyağı (Extra virgin olive oil):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150920000011",
+                                  "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150920000012",
+                                  "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150920000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150930",
+                              "name": "Natürel birinci zeytinyağı (Virgin olive oil):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "150930000015",
+                                  "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150930000016",
+                                  "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "150930000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "150940000000",
+                              "name": "Diğer natürel birinci zeytinyağı (Other virgin olive oil)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "150990",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Riviera zeytinyağı:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150990000021",
+                                      "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150990000022",
+                                      "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150990000029",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Rafine zeytinyağı:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "150990000031",
+                                      "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150990000032",
+                                      "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "150990000039",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "150990000049",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1510",
+                          "name": "Sadece zeytinden elde edilen diğer sıvı yağlar ve bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş) (bu yağların ve fraksiyonlarının 15.09 pozisyonundaki yağlar ve fraksiyonları ile olan karışımları dahil):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "151010000000",
+                              "name": "Ham prina yağı",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "151090",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Karma prina yağı:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151090000011",
+                                      "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151090000012",
+                                      "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151090000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Rafine prina yağı:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151090000021",
+                                      "name": "Net ağırlığı 5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151090000022",
+                                      "name": "Net ağırlığı 5 kg.ı geçen 18 kg.ı geçmeyen hazır ambalajlarda olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151090000029",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151090000039",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1511",
+                          "name": "Palm yağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "151110",
+                              "name": "Ham yağ:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151110100000",
+                                  "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151110900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151190",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Katı fraksiyonlar:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151190110011",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151190110019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151190190011",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151190190021",
+                                              "name": "Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya kaplarda bulunanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151190190029",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151190910000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151190990011",
+                                          "name": "Süper olein",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151190990019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1512",
+                          "name": "Ayçiçeği tohumu, aspir veya pamuk tohumu yağları ve bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Ayçiçeği tohumu veya aspir yağları ve bunların fraksiyonları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151211",
+                                  "name": "Ham yağlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151211100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151211910000",
+                                          "name": "Ayçiçeği tohumu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151211990000",
+                                          "name": "Aspir yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151219",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151219100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151219900011",
+                                          "name": "Ayçiçeği tohumu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151219900019",
+                                          "name": "Aspir yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Pamuk tohumu yağı ve fraksiyonları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151221",
+                                  "name": "Ham yağ (gossypolu alınmış olsun olmasın):",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151221100000",
+                                      "name": "Teknik veya sınai amaçlarla kulIanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151221900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151229",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151229100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151229900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1513",
+                          "name": "Hindistan cevizi (kopra), palm çekirdeği veya babassu yağları ve bunların fraksiyonları (rafine edilmiş olsun olmasınfakat kimyasal olarak değiştirilmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Hindistan cevizi (kopra) yağı ve fraksiyonları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151311",
+                                  "name": "Ham yağ:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151311100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151311910000",
+                                          "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151311990000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151319",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Katı fraksiyonlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151319110000",
+                                          "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151319190011",
+                                              "name": "Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151319190019",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151319300000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151319910000",
+                                              "name": "Net ağırlığı 1 kg.  veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "151319990011",
+                                                  "name": "Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151319990019",
+                                                  "name": "Diğerleri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Palm çekirdeği veya babassu yağları ve bunların fraksiyonları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151321",
+                                  "name": "Ham yağlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç):",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151321100011",
+                                          "name": "Palm çekirdeği yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151321100019",
+                                          "name": "Babassu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151321300000",
+                                          "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151321900011",
+                                              "name": "Palm çekirdeği yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151321900012",
+                                              "name": "Babassu yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151329",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Katı fraksiyonlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151329110000",
+                                          "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Palm çekirdeği yağı:",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "151329190011",
+                                                  "name": "Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151329190019",
+                                                  "name": "Diğerleri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151329190029",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151329300000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç):",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151329500000",
+                                              "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri :",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "151329900011",
+                                                  "name": "Palm çekirdeği yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151329900019",
+                                                  "name": "Babassu yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1514",
+                          "name": "Rep, kolza ve hardal yağı ve bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş)",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Düşük erusik asit muhtevalı rep veya kolza yağı ve  fraksiyonları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151411",
+                                  "name": "Ham yağlar :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151411100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151411900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151419",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151419100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151419900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151491",
+                                  "name": "Ham yağlar :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151491100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151491900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151499",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151499100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151499900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1515",
+                          "name": "Diğer bitkisel veya mikrobiyal sabit katı ve sıvı yağlar (jojoba yağı dahil) ve bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Keten tohumu yağı ve fraksiyonları :",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151511",
+                                  "name": "Ham yağ :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151511001000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151511009000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151519",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151519100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151519900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "151521",
+                                  "name": "Ham yağ :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Mısır yağı ve fraksiyonları :",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151529",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151529100000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151529900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151530",
+                              "name": "Hint yağı ve fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151530100000",
+                                  "name": "Dokumaya elverişli sentetik liflerin veya plastik maddelerin imalinde kullanılan aminoundekanoik asit üretimine mahsus olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151530900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151550",
+                              "name": "Susam yağı ve fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Ham yağ:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151550110000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151550190000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151550910000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151550990000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151560",
+                              "name": "Mikrobiyal katı ve sıvı yağlar ve fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Ham yağ:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151560110000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151560510000",
+                                          "name": "Katı, net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151560590000",
+                                          "name": "Katı, diğerleri; sıvı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151560600000",
+                                      "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151560910000",
+                                          "name": "Katı, net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151560990000",
+                                          "name": "Katı, diğerleri; sıvı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151590",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Çin ağacı yağı ; Jojoba ve outikika yağları; mersin ağacı mumu ve japon mumu; bunların fraksiyonları :",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Jojoba yağı ve fraksiyonları:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151590111100",
+                                          "name": "Ham yağ",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151590111900",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151590119000",
+                                      "name": "Çin ağacı yağı;outikika yağı; mersin ağacı mumu ve japon mumu; bunların fraksiyonları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Tütün tohumu yağı ve fraksiyonları:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Ham yağ:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151590210000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151590290000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151590310000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151590390000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğer yağlar ve bunların fraksiyonları:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Ham yağlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151590400000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151590510000",
+                                              "name": "Katı halde net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151590590000",
+                                              "name": "Katı hallerde,diğer şekillerde ambalajlanmış olanlar; akışkan",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri :",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151590600000",
+                                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri :",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151590910000",
+                                              "name": "Katı halde net ağırlığı 1 kg.  veya daha az olan hazır ambalajlarda olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151590990000",
+                                              "name": "Katı halde, diğer şekillerde ambalajlanmış olanlar; akışkan",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "151521100000",
+                          "name": "Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç)",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151521900011",
+                                  "name": "Degum (sakızı giderilmiş) mısır yağı",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151521900019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1516",
+                          "name": "Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları (kısmen veya tamamen hidrojenize edilmiş, ara - esterlenmiş, tekrar esterlenmiş veya elaidik asitleşmiş) (rafine edilmiş olsun olmasın, fakat daha ileri bir işlem görmemiş) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "151610",
+                              "name": "Hayvansal katı ve sıvı yağlar ve bunların fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda satışa arz edilenler",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151610100011",
+                                      "name": "Tamamen balık veya deniz memelilerinden elde edilmiş olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151610100012",
+                                      "name": "Domuz yağından elde edilenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151610100019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151610901000",
+                                      "name": "Sanayide kullanılan hidrojene edilmiş balina yağı",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151610909011",
+                                          "name": "Tamamen balık veya deniz memelilerinden elde edilmiş olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151610909012",
+                                          "name": "Domuz yağından elde edilenler",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151610909019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151620",
+                              "name": "Bitkisel katı ve sıvı yağlar ve bunların fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151620100000",
+                                  "name": "Hidrojene hint yağı (opalwax)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda satışa arz edilenler",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151620910011",
+                                          "name": "Pamuk yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910012",
+                                          "name": "Soya yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910013",
+                                          "name": "Yerfıstığı yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910014",
+                                          "name": "Zeytinyağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910015",
+                                          "name": "Palm yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910016",
+                                          "name": "Ayçiçeği tohumu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910017",
+                                          "name": "Hindistan cevizi (kopra) yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910018",
+                                          "name": "Rep yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910021",
+                                          "name": "Kolza yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910022",
+                                          "name": "Hardal yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910023",
+                                          "name": "Keten tohumu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910024",
+                                          "name": "Mısır yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910025",
+                                          "name": "Hint yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910026",
+                                          "name": "Susam yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910027",
+                                          "name": "Babassu yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910028",
+                                          "name": "Palm çekirdeği yağı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151620910029",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri :",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Teknik ve sınai amaçlarla kullanılan (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç) kolza, keten tohumu, rep tohumu, ayçiçeği tohumu,illipe, karite, makore, touloucouna ve babassu yağları",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "151620950011",
+                                              "name": "Kolza yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151620950012",
+                                              "name": "Keten tohumu yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151620950013",
+                                              "name": "Rep tohumu yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151620950014",
+                                              "name": "Ayçiçeği tohumu yağı",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151620950015",
+                                              "name": "Babassu yağları",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "151620950019",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri :",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Yerfıstığı, pamuk tohumu, soya  ve ayçiçeği tohumu yağları; palm çekirdeği illipe, hindistan cevizi,rep tohumu ve copaiba yağları hariç ve serbest yağ asitleri ağırlık itibariyle % 50'den az olan diğer yağlar",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "151620960011",
+                                                  "name": "Yerfıstığı yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620960012",
+                                                  "name": "Pamuk tohumu yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620960013",
+                                                  "name": "Soya yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620960014",
+                                                  "name": "Ayçiçeği tohumu yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620960019",
+                                                  "name": "Diğerleri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "151620980011",
+                                                  "name": "Zeytinyağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980012",
+                                                  "name": "Palm yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980013",
+                                                  "name": "Palm çekirdeği  yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980014",
+                                                  "name": "Hardal yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980015",
+                                                  "name": "Mısır yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980016",
+                                                  "name": "Hint yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980017",
+                                                  "name": "Susam yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980018",
+                                                  "name": "Hindistan cevizi yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980021",
+                                                  "name": "Rep yağı",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "151620980029",
+                                                  "name": "Diğerleri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151630",
+                              "name": "Mikrobiyal katı ve sıvı yağlar ve fraksiyonları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151630910000",
+                                  "name": "Net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151630980000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1517",
+                          "name": "Margarin; bu fasılda yer alan hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağların veya farklı katı veya sıvı yağ fraksiyonlarının yenilen karışımları veya müstahzarları ( 15.16 pozisyonundaki yenilen katı veya sıvı yağlar ve bunların fraksiyonları hariç) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "151710",
+                              "name": "Margarin (sıvı margarin hariç):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151710100000",
+                                  "name": "Ağırlık itibariyle içindeki katı süt yağı oranı % 10 'u geçen fakat % 15'i geçmeyenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151710900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "151790",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151790100000",
+                                  "name": "Ağırlık itibariyle içindeki katı süt yağı oranı % 10'u geçen fakat % 15 'i geçmeyenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "151790910000",
+                                      "name": "Sabit bitkisel sıvı yağlar (akışkan, karıştırılmış)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151790930000",
+                                      "name": "Eşyanın kalıptan çıkarılmasında kullanılan yenilen karışım ve müstahzarlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151790990000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "151800",
+                          "name": "Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları (kaynatılmış, oksitlenmiş, suyu alınmış, kükürtlenmiş, üflenmiş, vakum veya inert gaz içinde ısıyla polimerize edilmiş veya kimyasal olarak başka bir şekilde değiştirilmiş) ( 15.16 pozisyonundakiler hariç) tarifenin başka bir yerinde belirtilmeyen veya yer almayan bu fasıldaki hayvansal, bitkisel veya mikrobiyal katı veya sıvı yağların veya farklı katı veya sıvı yağ fraksiyonlarının yenilmeyen karışımları veya müstahzarları:",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "151800100000",
+                              "name": "Linoksin",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Teknik ve sınai amaçlarla kullanılan (insan gıdası olarak kullanılan ürünlerin imalinde kullanılanlar hariç) bitkisel sabit sıvı yağlar (akışkan, karıştırılmış):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151800310000",
+                                  "name": "Ham olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "151800390000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "151800910000",
+                                  "name": "Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları (kaynatılmışoksitlenmiş, suyu alınmış veya vakum veya inert gaz içinde ısıyla polimerize edilmiş veya kimyasal olarak başka bir şekilde değiştirilmiş) (15.16 pozisyonundakiler hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Hayvansal katı ve sıvı yağların ve bunların fraksiyonlarının, veya hayvansal ve bitkisel katı ve sıvı yağların ve bunların fraksiyonlarının, veya hayvansal ve mikrobiyal katı ve sıvı yağların ve bunların fraksiyonlarının veya hayvansal, bitkisel ve mikrobiyal katı ve sıvı yağların ve bunların fraksyonlarının yenilmeyen karışımları veya müstahzarları :",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "151800951000",
+                                          "name": "Sanayide kullanılan sıvı yağlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "151800959000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "151800990000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "152000",
+                          "name": "Ham gliserol; gliserollü sular ve gliserollü lesivler:",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "152000001000",
+                              "name": "Ham gliserol",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "152000009000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "1521",
+                          "name": "Bitkisel mumlar (trigliseritler hariç), bal mumu veya diğer böcek mumları, ispermeçet (rafine edilmiş veya boyanmış olsun olmasın):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "152110",
+                              "name": "Bitkisel mumlar",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "152110001000",
+                                  "name": "Ham bitkisel mumlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "152110009000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "152190",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "152190100000",
+                                  "name": "İspermeçet (rafine edilmiş veya boyanmış olsun olmasın)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Balmumu veya diğer böcek mumları (rafine edilmiş veya boyanmış olsun olmasın):",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Ham olanlar",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "152190910011",
+                                          "name": "Balmumu",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "152190910019",
+                                          "name": "Diğer böcek mumları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "152190990011",
+                                          "name": "Balmumu",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "152190990019",
+                                          "name": "Diğer böcek mumları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "152200",
+                          "name": "Degra;yağlı maddeler veya hayvansal veya bitkisel mumların işlenmesinden meydana gelen artıklar:",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "152200100000",
+                              "name": "Degra",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Yağlı maddelerin veya bitkisel yada hayvansal mumların işlenme sinden meydana gelen artıklar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Zeytinyağı karakterine haiz sıvı yağ içerenler:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "152200310000",
+                                      "name": "Sabun ham maddeleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "152200390000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "152200910000",
+                                      "name": "Yağ tortuları ve posaları; sabun hammaddeleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "152200990000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+            ]
+        }
+]

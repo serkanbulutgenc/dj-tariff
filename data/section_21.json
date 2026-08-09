@@ -1,0 +1,596 @@
+[
+    {
+            "data": {
+                "code": null,
+                "name": "XXI. Sanat Eserleri, Koleksiyon Eşyası Ve Antikalar",
+                "node_type": "SECTION",
+                "description_detail": null
+              },
+                "children": [
+                    {
+                        "data": {
+                          "code": "97",
+                          "name": "Sanat Eserleri, Kolleksiyon Eşyası Ve Antikalar",
+                          "node_type": "CHAPTER",
+                          "description_detail": null
+
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "9701",
+                              "name": "Tamamen elle yapılmış yağlı boya, karakalem ve pastel resimler (49.06 pozisyonundaki çizimler ve elle boyanmış veya elle dekore edilmiş fabrikasyon ürünler hariç); kolajlar (yapıştırma resimler), mozaikler ve benzeri dekoratif plakalar",
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "100 yaşını geçenler:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "970121000000",
+                                      "name": "Yağlı boya, karakalem ve pastel resimler",
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970122000000",
+                                      "name": "Mozaikler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970129000000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "970191000000",
+                                      "name": "Yağlı boya, karakalem ve pastel resimler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970192000000",
+                                      "name": "Mozaikler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970199",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "SUBHEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "970199000500",
+                                          "name": "Tamamen elle yapılmış sanat eseri niteliğindeki kolaj ve benzeri dekoratif panolar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199001000",
+                                          "name": "Çiçekler, çiçek goncaları ve tomurcuklar ile yapraklı dallar, ince dallar ve bitkilerin diğer parçaları, otlar, yosunlar ve dikenlerden yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199002000",
+                                          "name": "Plastik maddelerden yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199003000",
+                                          "name": "Ahşaptan yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199004000",
+                                          "name": "Tabii mantardan yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199005000",
+                                          "name": "Baskı yapılmış resim veya dekoratif motiflerle süslenmiş olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199006000",
+                                          "name": "Mensucattan yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199007000",
+                                          "name": "Adi metallerden yapılmış olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "970199009000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "9702",
+                              "name": "Orijinal gravürler, estamplar ve litoğrafyalar",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "970210000000",
+                                  "name": "100 yaşını geçenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "970290000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "9703",
+                              "name": "Heykel veya yontu sanatının orijinal eserleri (yapıldığı madde ne olursa olsun)",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "970310000000",
+                                  "name": "100 yaşını geçenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "970390000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "970400000000",
+                              "name": "Kullanılmış veya kullanılmamış posta pulları, damga ve 'harç pulları, matbu posta pulu veya posta pulu yerine geçen damga taşıyan zarflar ve benzerleri (4907 pozisyonunda yer alanlar hariç)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "9705",
+                              "name": "Zooloji, botanik, mineroloji, anatomiye ait veya tarihi, arkeolojik, paleontolojik, etnoğrafik veya nümizmatik bir değeri bulunan kolleksiyon ve örnekler",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "970510000000",
+                                  "name": "Arkeolojik, etnoğrafik veya tarihi bir değeri bulunan koleksiyon ve örnekler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Zoolojik, botanik, minerolojik, anatomik veya paleontolojik bir değeri bulunan koleksiyon ve örnekler:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "970521000000",
+                                      "name": "İnsan örnekleri ve bunların parçaları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970522000000",
+                                      "name": "Soyu tükenmiş veya nesli tükenmekte olan türler ve bunların parçaları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970529000000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Nümizmatik bir değeri bulunan koleksiyon ve örnekler:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "970531000000",
+                                      "name": "100 yaşını geçenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "970539000000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "9706",
+                              "name": "Eskiliği yüzyılı aşan antika eşya",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "970610000000",
+                                  "name": "250 yaşını geçenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "970690000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "98",
+                          "name": "(Akit taraflarca, özel amaçlarda kullanılmak üzere saklı tutulmuştur.)",
+                          "node_type": "CHAPTER",
+                          "description_detail": null
+
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "99",
+                          "name": "(Özel Amaçlı Gümrük Tarife İstatistik Pozisyonları)",
+                          "node_type": "CHAPTER",
+                          "description_detail": null
+
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "990500000000",
+                              "name": "Yerleşim yerini nakleden gerçek kişilere ait şahsi eşya",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "9919",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "991900000011",
+                                  "name": "Evlilik nedeniyle serbest dolaşıma giren eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000012",
+                                  "name": "Miras yoluyla intikal eden eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000013",
+                                  "name": "Öğrenim amacıyla gelen öğrencilere ait eğitim malzemeleri ve ev eşyası",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000014",
+                                  "name": "Ölü ihtiva eden tabutlar, ölülere ait kül ihtiva eden kaplar ve dekoratif cenaze eşyası",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000015",
+                                  "name": "Kamu kurumları, hayır veya insani yardım kuruluşları tarafından getirilen eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000016",
+                                  "name": "Malül, sakatlar ve diğer engellilerin kullanımına mahsus eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000017",
+                                  "name": "Kriz hallerinde zarar görenlere gönderilen eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000018",
+                                  "name": "Kişisel eşya, yolcu beraberi eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "991900000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "9930",
+                              "name": "Deniz ve hava taşıtlarına verilen eşya:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "993024000000",
+                                  "name": "1 ila 24. fasıllardaki eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "993099000000",
+                                  "name": "Diğerleri (27. Fasıl hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "9931",
+                              "name": "Açık denizde bulunan yapılardaki mürettebata veya yapılardaki motor, makine, cihaz gibi ekipmanın çalışması için verilen eşya:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "993124000000",
+                                  "name": "1 ila 24. fasıllardaki eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "993199000000",
+                                  "name": "Diğerleri (27. Fasıl hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                ]
+
+    }
+]

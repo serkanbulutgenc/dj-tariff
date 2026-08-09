@@ -1,0 +1,3515 @@
+[
+  {
+            "data": {
+                "code": null,
+                "name": "VIII. Ham Postlar Ve Deriler, Köseleler, Postlar Kürkler Ve Bu Maddelerden Mamul Eşya; Saraciye Eşyası Ve Eyer Ve Koşum Takımları; Seyahat Eşyası, El Çantaları Ve Benzeri Mahfazalar; Hayvan Bağırsağından Mamul Eşya (ipek Böceği Bağırsağı Hariç)",
+                "node_type": "SECTION",
+                "description_detail": null
+
+            },
+            "children": [
+                {
+                    "data": {
+                      "code": "41",
+                      "name": "Ham Postlar, Deriler (Kürkler Hariç) Ve Köseleler",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "4101",
+                          "name": "Sığırların (bufalo dahil) ve atların ham post ve derileri (yaş veya tuzlanmış, kurutulmuş, kireçlenmiş, pikle edilmiş veya başka şekilde muhafaza edilmiş, fakat dabaklanmamış, parşömine edilmemiş veya daha ileri bir işleme tabi tutulmamış) (kılları alınmış veya parçalara ayrılmış olsun olmasın):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "410120",
+                              "name": "Bütün halindeki post ve deriler (deri ağırlığı basitçe kurutulduğunda 8 kg.ı, kuru tuzlandığında 10 kg.ı veya taze, yaş tuzlanmış veya diğer şekillerde muhafaza edildiğinde 16 kg.ı geçmeyenler):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Taze:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410120101000",
+                                      "name": "Yaş ağırlığı 15 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410120102000",
+                                      "name": "Yaş ağırlığı 15 kg.dan fazla fakat 16 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Yaş tuzlanmış:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410120301000",
+                                      "name": "Yaş ağırlığı 15 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410120302000",
+                                      "name": "Yaş ağırlığı 15 kg.dan fazla, fakat 16 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Kurutulmuş veya kuru tuzlanmış:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410120501000",
+                                      "name": "Kuru ağırlığı 9 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410120502000",
+                                      "name": "Kuru ağırlığı 9 kg.ı geçen, fakat 10 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410120801000",
+                                      "name": "Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410120802000",
+                                      "name": "Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçen, fakat 16 kg.ı geçmeyenler",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "410150",
+                              "name": "Ağırlığı 16 kg.ı geçen bütün halindeki post ve deriler:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Taze:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410150101000",
+                                      "name": "Yaş ağırlığı 16 kg.ı geçen sığır derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410150102000",
+                                      "name": "Yaş ağırlığı 16 kg.ı geçen at derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Yaş tuzlanmış:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410150301000",
+                                      "name": "Yaş ağırlığı 16 kg.ı geçen sığır derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410150302000",
+                                      "name": "Yaş ağırlığı 16 kg.ı geçen at derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Kurutulmuş veya kuru tuzlanmış:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410150501000",
+                                      "name": "Sığır derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410150502000",
+                                      "name": "Atların derileri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410150900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "410190",
+                              "name": "Diğerleri (krupon ve yarım krupon deriler dahil):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410190001000",
+                                  "name": "Krupon ve yarım krupon deriler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410190002000",
+                                  "name": "Taze veya yaş tuzlanmış sığır derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410190003000",
+                                  "name": "Kurutulmuş veya kuru tuzlanmış sığır derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410190004000",
+                                  "name": "Diğer şekillerde muhafaza edilmiş sığır derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410190009000",
+                                  "name": "Atların derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4102",
+                          "name": "Koyun ve kuzuların ham derileri ( yaş veya tuzlanmış, kurutulmuş, kireçlenmiş, pikle edilmiş veya başka şekilde muhafaza edilmiş fakat dabaklanmamış, parşömine edilmemiş veya daha ileri bir şekilde hazırlanmamış) (yünü alınmış veya parçalara ayrılmış olsun olmasın) (bu fasılın 1 (c) notunda belirtilenler hariç):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "410210",
+                              "name": "Yünü alınmamış:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410210100000",
+                                  "name": "Kuzulara ait olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410210900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Yünü alınmış:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410221000000",
+                                  "name": "Pikle deriler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410229000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4103",
+                          "name": "Diğer ham post ve deriler (yaş veya tuzlanmış, kurutulmuş, kireçlenmiş, pikle edilmiş veya başka şekilde muhafaza edilmiş fakat dabaklanmamış, parşömine edilmemiş veya daha ileri bir şekilde hazırlanmamış) (kılları alınmış veya parçalara ayrılmış olsun olmasın) (bu fasılın 1 (b) ve 1 (c) notlarında belirtilenler hariç) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "410320000000",
+                              "name": "Sürüngenlerin ham derileri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "410330000000",
+                              "name": "Domuzların ham derileri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "410390",
+                              "name": "Diğerleri",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410390000011",
+                                  "name": "Diğer hayvanların yaş derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410390000012",
+                                  "name": "Diğer hayvanların kuru derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410390000013",
+                                  "name": "Diğer hayvanların pikle derileri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410390000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4104",
+                          "name": "Sığırların (bufalo dahil) veya atların dabaklanmış veya \"crust\" (ara kurutmalı) postları ve derileri (kılları alınmış) (parçalanmış olsun olmasın, fakat daha ileri bir işlem görmemiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Yaş halde (wet-blue dahil)",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410411",
+                                  "name": "Sırçalı deri (full grains), parçalanmamış; yarma deriler",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Sığırların (bufalo dahil) bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi geçmeyenler)",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "410411100011",
+                                          "name": "Sırçalı deri (full grains)",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410411100012",
+                                          "name": "Yarma deri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Sığırların (bufalo dahil) deri ve köseleleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi geçenler)",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "410411510011",
+                                                  "name": "Sırçalı deri (full grains)",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "410411510012",
+                                                  "name": "Yarma deri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "410411590011",
+                                                  "name": "Sırçalı deri (full grains)",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "410411590012",
+                                                  "name": "Yarma deri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410411900011",
+                                              "name": "Sırçalı deri (full grains)",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410411900012",
+                                              "name": "Yarma deri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410419",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410419100000",
+                                      "name": "Sığırların (bufalo dahil) bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi  geçmeyenler)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Sığırların (bufalo dahil) deri ve köseleleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410419510000",
+                                              "name": "Bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi geçenler)",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410419590000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410419900000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Kuru halde (crust):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410441",
+                                  "name": "Sırçalı deri (full grains), parçalanmamış; yarma deriler",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Sığırların (bufalo dahil) bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi  geçmeyenler)",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Hint danası derisi (bütün veya baş ve ayakları alınmış, her birinin net ağırlığı 4,5 kg.ı geçmeyenler, bitkisel dabaklamadan daha ileri bir işlem görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat bulunduğu halde deri eşyası imalatında kullanılacak hale gelmediği açıkça belli olanlar):",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410441111000",
+                                              "name": "Sadece dabaklanmış fakat belirli işlemlerden geçmemiş olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410441119000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Sadece dabaklanmış",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "410441191011",
+                                                  "name": "Dana derisi",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "410441191019",
+                                                  "name": "Diğer sığırların derileri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410441199000",
+                                              "name": "Başka şekilde hazırlanmış olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Sığırların (bufalo dahil) post ve derileri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410441510000",
+                                              "name": "Bütün halindeki derileri (birim yüzey alanı 2,6m2.yi geçenler)",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410441590000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410441900000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410449",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Sığırların (bufalo dahil) bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi geçmeyenler):",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Hint danası derisi (bütün veya baş ve ayakları alınmış, her birinin net ağırlığı 4,5 kg. ı geçmeyenler, bitkisel dabaklamadan daha ileri bir işlem görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat bulunduğu halde deri eşyası imalatında kullanılacak hale gelmediği açıkça belli olanlar):",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410449111000",
+                                              "name": "Sadece dabaklanmış fakat daha ileri bir işlem görmemiş olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410449119000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "",
+                                              "name": "Sadece dabaklanmış",
+
+                                              "node_type": "HEADING",
+                                              "description_detail": null
+                                            },
+                                            "children": [
+                                              {
+                                                "data": {
+                                                  "code": "410449191011",
+                                                  "name": "Dana derisi",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "data": {
+                                                  "code": "410449191019",
+                                                  "name": "Diğer sığırların derileri",
+
+                                                  "node_type": "GTIP",
+                                                  "description_detail": null
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410449199000",
+                                              "name": "Başka şekilde hazırlanmış olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Sığırların (bufalo dahil) deri ve köseleleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "410449510000",
+                                              "name": "Bütün halindeki post ve derileri (birim yüzey alanı 2,6m2.yi geçenler)",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "410449590000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410449900000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4105",
+                          "name": "Koyunların veya kuzuların dabaklanmış veya \"crust\" (ara kurutmalı) derileri (yünü alınmış), (parçalanmış olsun olmasın, fakat daha ileri bir şekilde hazırlanmamış):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "410510000000",
+                              "name": "Yaş halde (wet-blue dahil)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "410530",
+                              "name": "Kuru halde (crust):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410530100000",
+                                  "name": "Bitkisel ön dabaklama yapılmış Hint melezi (bazı işlemlere tabi tutulmuş olsun olmasın,fakat deri eşya imalatında kullanılacak hale gelmediği açıkça belli olanlar)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410530900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4106",
+                          "name": "Diğer hayvanların dabaklanmış veya \"crust\" (ara kurutulmuş) post ve derileri (yünü veya kılı alınmış) (parçalanmış olsun olmasın fakat daha ileri bir şekilde hazırlanmamış)",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Keçi veya oğlakların derileri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410621000000",
+                                  "name": "Yaş halde (wet-blue dahil)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410622",
+                                  "name": "Kuru halde (crust):",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410622100000",
+                                      "name": "Bitkisel ön dabaklama yapılmış Hint keçisi veya oğlakları (bazı işlemlere tabi tutulmuş olsun olmasın fakat deri eşya imalatında kullanılacak hale gelmediği açıkça belli olanlar)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410622900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410631",
+                                  "name": "Yaş halde (wet-blue dahil):",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Domuzların derileri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410632000000",
+                                  "name": "Kuru halde (crust)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "410640",
+                              "name": "Sürüngenlerin derileri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410640100000",
+                                  "name": "Bitkisel ön dabaklama yapılmış",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410640900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410691000000",
+                                  "name": "Yaş halde (wet-blue dahil):",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "410692000000",
+                                  "name": "Kuru halde (crust):",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "410631001000",
+                          "name": "Parçalara ayrılmamış",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "410631009000",
+                              "name": "Parçalara ayrılmış",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4107",
+                          "name": "Sığırların (bufalo dahil) veya atların dabaklama veya ara kurutmadan sonra ileri derecede hazırlanmış deri ve köseleleri (parşömine edilmiş deri dahil) (kılları alınmış) (parçalanmış olsun olmasın, 41.14 pozisyonunda yer alan deri ve köseleler hariç):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Bütün halindeki post ve deriler:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410711",
+                                  "name": "Sırçalı deri (full grains), parçalanmamış:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Sığırların (bufalo dahil) bütün haldeki derileri (birim yüzey alanı  2,6m2yi geçmeyenler):",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "410711110000",
+                                          "name": "Vidala",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410711190000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410711900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410712",
+                                  "name": "Yarma deriler:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Sığırların (bufalo dahil) bütün haldeki derileri ( birim yüzey alanı  2,6 m2yi geçmeyenler):",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "410712110000",
+                                          "name": "Vidala",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410712190000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "410712910000",
+                                          "name": "Sığırların (bufalo dahil) deri ve köseleleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "410712990000",
+                                          "name": "Atların deri ve köseleleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410719",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410719100000",
+                                      "name": "Sığırların (bufalo dahil) deri ve köseleleri ( birim yüzey alanı 2,6 m2yi geçmeyenler):",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410719900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri, kenarlar dahil:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "410791",
+                                  "name": "Sırçalı deri (full grains), parçalanmamış:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410791100000",
+                                      "name": "Taban köselesi",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410791900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410792",
+                                  "name": "Yarma deriler:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410792100000",
+                                      "name": "Sığırların (bufalo dahil) deri ve köseleleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410792900000",
+                                      "name": "Atların deri ve köseleleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "410799",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "410799100000",
+                                      "name": "Sığırların (bufalo dahil) deri ve köseleleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "410799900000",
+                                      "name": "Atların deri ve köseleleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "411200000000",
+                          "name": "Koyun veya kuzuların dabaklama veya ara kurutmadan sonra ileri derecede hazırlanmış deri ve köseleleri (parşömine edilmiş deri dahil) (yünü alınmış) (parçalanmış olsun olmasın, 41.14 pozisyonunda yer alan deri ve köseleler hariç)",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "4113",
+                          "name": "Diğer hayvanların dabaklama veya ara kurutmadan sonra ileri derecede hazırlanmış deri ve köseleleri (parşömine edilmiş deri dahil) (yünü veya kılları alınmış) (parçalanmış olsun olmasın, 41.14 pozisyonunda yer alan deri ve köseleler hariç):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "411310000000",
+                              "name": "Keçi veya oğlakların deri ve köseleleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "411320000000",
+                              "name": "Domuzların deri ve köseleleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "411330000000",
+                              "name": "Sürüngenlerin deri ve köseleleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "411390000000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4114",
+                          "name": "Güderi (kombine deri dahil); rugan ve ruganla kaplanmış deri ve köseleler; metalize deri ve köseleler:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "411410",
+                              "name": "Güderi (kombine deri dahil):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "411410100000",
+                                  "name": "Koyun ve kuzulardan elde edilenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "411410900000",
+                                  "name": "Diğer hayvanlardan elde edilenler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Rugan ve ruganla kaplanmış deri ve köseleler; metalize deri ve köseleler",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "411420000011",
+                                  "name": "Rugan deri ve köseleler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "411420000012",
+                                  "name": "Ruganla kaplanmış deri ve köseleler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "411420000013",
+                                  "name": "Metalize deri ve köseleler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4115",
+                          "name": "Esası deri ve kösele veya deri veya kösele lifleri olan terkip yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köseleler (rulo halinde olsun olmasın); deri ve köselelerin, terkip yoluyla elde edilen deri ve köselelerin,deri ve köseleden eşya imaline uygun olmayan kırpıntı ve diğer döküntüleri; deri ve kösele talaşı, tozu ve unu:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "411510000000",
+                              "name": "Esası deri ve kösele veya deri veya kösele lifleri olan terkip yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köseleler (rulo halinde olsun olmasın)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "411520000000",
+                              "name": "Deri ve köselelerin, terkip yoluyla elde edilen deri ve köselelerin, deri ve köseleden eşya  imaline uygun olmayan kırpıntı ve diğer döküntüleri; deri ve kösele talaşı, tozu ve unu",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "code": "42",
+                      "name": "Deri Eşya; Saraciye Eşyası Ve Eyer Ve Koşum Takımları; Seyahat Eşyası, El Çantaları Ve Benzeri Mahfazalar; Hayvan Bağırsağından Mamul Eşya (İpek Böceği Bağırsağı Hariç)",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "420100000000",
+                          "name": "Her tür hayvan için saraciye eşyası, eyer ve koşum takımları (koşum kayışları, yularlar, dişlikler, burunsalıklar, eyer örtüleri, eyer torbaları, köpek elbiseleri ve benzerleri) (imal edildiği madde ne olursa olsun)",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "4202",
+                          "name": "Sandıklar, bavullar, valizler, makyaj valizleri, evrak-iş çantaları, okul çantaları, gözlük kılıfları, dürbün mahfazaları, fotoğraf makinası mahfazası, müzik aletleri mahfazaları, silah ve tabanca mahfazaları ve benzeri mahfazalar; tabii veya terkip yoluyla elde edilen deri ve köseleden, plastik madde yapraklarından, dokumaya elverişli maddelerden, vulkanize edilmiş liflerden, kartondan yapılmış veya tamamen yahut kısmen bu maddelerle veya kağıtla kaplanmış seyahat çantaları, izole edilmiş yiyecek veya içecek torbaları, tuvalet çantaları,sırt çantaları el çantaları, erzak çantaları,portföyler, para keseleri, harita ve kimlik mahfazaları, sigara kutuları, tabaka ve tütün kese ve kutuları takım çantaları, spor çantaları, şişe mahfazaları, mücevher kutuları, pudra -baharat -barut kutuları, bıçak kılıfları ve benzeri mahfazalar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Sandıklar, bavullar, valizler, evrak çantaları, okul çantaları ve benzeri mahfazalar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420211",
+                                  "name": "Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele den veya rugandan olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Evrak çantaları, okul çantaları ve benzeri mahfazalar",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420211100011",
+                                          "name": "Tabii deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420211100012",
+                                          "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420211100013",
+                                          "name": "Rugandan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420211900011",
+                                          "name": "Tabii deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420211900012",
+                                          "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420211900013",
+                                          "name": "Rugandan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420212",
+                                  "name": "Dış yüzleri plastikten veya dokumaya elverişli maddelerden olanlar :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Plastik madde yapraklarından yapılmış olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420212110000",
+                                          "name": "Evrak çantaları,okul çantaları ve benzeri mahfazalar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420212190000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420212500000",
+                                      "name": "Kalıplanmış plastik maddelerden yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğer maddelerden yapılmış olanlar (vulkanize edilmiş liflerden yapılmış olanlar dahil):",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Evrak çantaları, okul çantaları ve benzeri mahfazalar:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "420212911000",
+                                              "name": "Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "420212919000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "420212991000",
+                                              "name": "Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "420212999000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420219",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420219100000",
+                                      "name": "Aluminyumdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğer maddelerden olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420219901000",
+                                          "name": "Ahşaptan veya nikelden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420219903000",
+                                          "name": "Demir dökümdemir veya çelikten veya çinkodan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420219905000",
+                                          "name": "Bakırdan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420219909000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "El çantaları (omuzda taşımak için kayışları olsun olmasın) (sapsız olanlar dahil):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420221000000",
+                                  "name": "Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele den veya rugandan olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "420222",
+                                  "name": "Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya elverişli maddelerden olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420222100000",
+                                      "name": "Plastikten mamul madde yapraklarından yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Dokumaya elverişli maddelerden olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420222901000",
+                                          "name": "Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420222909000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420229000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Normal olarak cepte veya el çantasında taşınan eşya:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420231000000",
+                                  "name": "Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele den veya rugandan olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "420232",
+                                  "name": "Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya elverişli maddelerden olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420232100000",
+                                      "name": "Plastikten mamul madde yapraklarından yapılmış olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Dokumaya elverişli maddelerden olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420232901000",
+                                          "name": "Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420232909000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420239",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420239001000",
+                                      "name": "Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239002000",
+                                      "name": "Ahşap olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239003000",
+                                      "name": "Bakırdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239004000",
+                                      "name": "Nikelden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239005000",
+                                      "name": "İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal maddelerden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239006000",
+                                      "name": "İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420239009000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420291",
+                                  "name": "Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele den veya rugandan olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420292",
+                                  "name": "Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya elverişli maddelerden olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Plastikten mamul madde yapraklarından yapılmış olanlar :",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420292110000",
+                                          "name": "Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420292150000",
+                                          "name": "Müzik aletleri mahfazaları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420292190000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Dokumaya elverişli maddelerden olanlar:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları :",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "420292911000",
+                                              "name": "Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "420292919000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "420292981000",
+                                              "name": "Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "420292989000",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420299",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420299001000",
+                                      "name": "Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299002000",
+                                      "name": "Ahşap olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299003000",
+                                      "name": "Bakırdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299004000",
+                                      "name": "Nikelden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299005000",
+                                      "name": "İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal maddelerden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299006000",
+                                      "name": "İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420299009000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "",
+                          "name": "Seyahat çantaları, tuvalet çantaları, sırt çantaları, spor çantaları",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "420291800000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "420291100011",
+                          "name": "Tabii deri ve köseleden olanlar",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "420291100012",
+                              "name": "Terkip yoluyla elde edilen  deri ve köseleden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "420291100013",
+                              "name": "Rugandan olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4203",
+                          "name": "Tabii veya terkip yoluyla elde edilen deri ve köseleden giyim eşyası ve aksesuarı:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "420310",
+                              "name": "Giyim eşyası",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420310000012",
+                                  "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420310000022",
+                                      "name": "Manto, Palto, Pardesü",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420310000023",
+                                      "name": "Kaban, Mont, Ceket",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420310000024",
+                                      "name": "Pantolon",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420310000025",
+                                      "name": "Etek",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420310000028",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Eldivenler, tek parmaklı eldivenler, parmaksız eldivenler:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420321",
+                                  "name": "Spor eldivenleri",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420321000011",
+                                      "name": "Tabii deri ve köseleden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420321000012",
+                                      "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "420329",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Her türlü sanat ve meslek erbabının korunmak amacıyla kullandıkları eldivenler",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "420329100011",
+                                          "name": "Tabii deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "420329100012",
+                                          "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420329900000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "420330",
+                              "name": "Bel kemerleri, kılıç kayışı ve palaskaları",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420330000011",
+                                  "name": "Tabii deri ve köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "420330000012",
+                                  "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "420340",
+                              "name": "Giyim eşyasının diğer aksesuarı",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420340000011",
+                                  "name": "Tabii deri ve köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "420340000012",
+                                  "name": "Terkip yoluyla elde edilen deri ve köseleden olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "420500",
+                          "name": "Tabii veya terkip yoluyla elde edilen deri ve köseleden diğer eşya",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Makinalarda veya mekanik aletlerde veya diğer teknik amaçlarla kulllanılan türde olanlar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Transmisyon kolanları ve taşıyıcı kolanlar",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420500111000",
+                                      "name": "Transmisyon kolanları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420500112000",
+                                      "name": "Taşıyıcı kolanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "420500191000",
+                                      "name": "Makinalarda kullanılan eşya ve dokuma sanayii için takeler (taquet)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "420500199000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "420500900011",
+                                  "name": "Tabii deri veya köseleden diğer eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "420500900012",
+                                  "name": "Terkip yoluyla elde edilen deri ve köseleden diğer eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "420600000000",
+                          "name": "Bağırsak (ipek böceği bağırsağı hariç), kursak, mesane ve veterden mamul eşya",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "code": "43",
+                      "name": "Kürkler ve Taklit Kürkler; Bunların Mamulleri",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "4301",
+                          "name": "Ham kürkler (baş, kuyruk, pençe ve kürkçülüğe elverişli diğer parçalar dahil) (41.01, 41.02 ve 41.03 pozisyonlarındaki ham post ve deriler hariç) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "430110000000",
+                              "name": "Mink (vizon) (bütün halinde) (baş, kuyruk veya pençeleri ile birlikte olsun olmasın)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "430130",
+                              "name": "Astragan, Breitschwanz, Karakul, Persaniye denilen kuzular ve benzeri kuzular ile Hint, Çin, Moğol ve Tibet kuzuları (bütün halinde) (baş, kuyruk veya pençeleri ile birlikte olsun olmasın)",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "430130000011",
+                                  "name": "Astragan, Karakul",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "430130000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "430160000000",
+                              "name": "Tilki (bütün halinde) (baş,kuyruk veya pençeleri ile birlikte olsun olmasın)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "430180000000",
+                              "name": "Diğer kürkler (bütün halinde) (baş,kuyruk veya pençeleri ile birlikte olsun olmasın)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "430190000000",
+                              "name": "Başlar,kuyruklar,pençeler ve kürkçülüğe elverişli diğer parçalar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4302",
+                          "name": "Dabaklanmış veya aprelenmiş kürkler (baş, kuyruk, pençeler ve diğer parçalar dahil) (birleştirilmemiş veya birleştirilmiş) (diğer maddeler ilave edilmemiş) (43.03 pozisyonundakiler hariç):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Bütün halindeki deriler (baş, kuyruk veya pençeleri ile birlikte olsun olmasın) (birleştirilmemiş):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "430211000000",
+                                  "name": "Mink (vizon)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "430219",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "430219150000",
+                                      "name": "Kunduz, Misk sıçanı, Tilki",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "430219350000",
+                                      "name": "Tavşan veya yabani tavşan",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Fok veya ayı balığı:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "430219410000",
+                                          "name": "Beyaz mantolu veya mavi sırtlı denilen kapişonlu fok yavruları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430219490000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Koyun veya kuzular:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "430219750000",
+                                          "name": "Kuzular:Astragan, Broadtail (kısa kuyruk), Karakul,Pers ve benzeri kuzular, Hint,Çin,Mongol veya Tibet kuzuları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430219800000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "430219990011",
+                                          "name": "Sincap",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430219990019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "430220000000",
+                              "name": "Başlar, kuyruklar, pençeler ve diğer parçalar ve kırpıntılar (birleştirilmemiş)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "430230",
+                              "name": "Bütün halindeki deriler ve parçaları ve bunların kırpıntıları (birleştirilmiş):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "430230100000",
+                                  "name": "Uzatılmış olanlar (allongees)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "430230250000",
+                                      "name": "Tavşan veya yabani tavşan",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Fok veya ayı balığı:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "430230510000",
+                                          "name": "Beyaz mantolu veya mavi sırtlı denilen kapişonlu fok yavruları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430230550000",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "430230990011",
+                                          "name": "Sincap",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430230990012",
+                                          "name": "Kunduz",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430230990013",
+                                          "name": "Dağ sıçanı",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "430230990019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "4303",
+                          "name": "Kürkten giyim eşyası ve aksesuarı ve kürkten diğer eşya:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "430310",
+                              "name": "Giyim eşyası ve aksesuarı:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "430310100000",
+                                  "name": "Beyaz mantolu veya mavi sırtlı denilen kapişonlu fok yavruları",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "430310900015",
+                                      "name": "Giyim eşyası aksesuarı olarak kullanılan kürk mamulleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "430310900016",
+                                      "name": "Kuzu kürkünden giyim eşyası",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "430310900017",
+                                      "name": "Diğer kürklerden giyim eşyası",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "430310900018",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "430390",
+                              "name": "Diğerleri",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "430390000011",
+                                  "name": "Teknik işlerde kullanılan kürk mamulleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "430390000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "430400",
+                          "name": "Taklit kürk ve bundan mamul eşya",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "430400000011",
+                              "name": "Taklit kürk",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "430400000012",
+                              "name": "Taklit kürkten mamul eşya",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+
+            ]
+        }
+]

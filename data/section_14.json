@@ -1,0 +1,1694 @@
+[
+    {
+            "data": {
+                "code": null,
+                "name": "XIV. Tabii Veya Kültür İncileri, Kıymetli Veya Yarı Kıymetli Taşlar, Kıymetli Metaller, Kıymetli Metallerle Kaplama Metaller Ve Bunlardan Mamul Eşya; Taklit Mücevherci Eşyası; Metal Paralar",
+                "node_type": "SECTION",
+                "description_detail": null
+
+            },
+            "children": [
+                {
+                    "data": {
+                      "code": "71",
+                      "name": "Tabii Veya Kültür İnciler, Kıymetli Veya Yarı Kıymetli Taşlar, Kıymetli Metaller, Kıymetli Metallerle Kaplama Metaller Ve Bunlardan Mamul Eşya; Taklit Mücevherci Eşyası; Metal Paralar",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "7101",
+                          "name": "Tabii inci veya kültür incileri (işlenmiş veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); tabii inci veya kültür incileri (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710110",
+                              "name": "Tabii inciler",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710110000011",
+                                  "name": "İşlenmemiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710110000012",
+                                  "name": "İşlenmiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Kültür incileri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710121000000",
+                                  "name": "İşlenmemiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710122000000",
+                                  "name": "İşlenmiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7102",
+                          "name": "Elmaslar (işlenmiş olsun olmasın, fakat mıhlanmamış veya takılmamış):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710210000000",
+                              "name": "Tasnif edilmemiş olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Sanayide kullanılanlar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710221000000",
+                                  "name": "İşlenmemiş veya basit bir şekilde kesilmiş,yarılmış veya yontulmuş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710229000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Sanayide kullanılmayanlar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710231000000",
+                                  "name": "İşlenmemiş veya basit bir şekilde kesilmiş,yarılmış veya yontulmuş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710239000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7103",
+                          "name": "Kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (işlenmiş veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (tasnife tabi tutulmamış) (taşınmasında kolaylık sağlamak  amacıyla geçici olarak ipliğe dizilmiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710310",
+                              "name": "İşlenmemiş veya basit bir şekilde kesilmiş veya kabaca yontulmuş",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710310000011",
+                                  "name": "Safir",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710310000012",
+                                  "name": "Zümrüt",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710310000013",
+                                  "name": "Yakut (rubi)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710310000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Başka şekilde işlenmiş:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710391",
+                                  "name": "Yakut (rubi), safir ve zümrüt",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710391000011",
+                                      "name": "Yakut (rubi)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710391000012",
+                                      "name": "Safir",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710391000013",
+                                      "name": "Zümrüt",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "710399",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710399000011",
+                                      "name": "Akik taşları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710399000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7104",
+                          "name": "Sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli taşlar (işlenmiş veya tasnife tabi tutulmuş olsun olmasın, fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); tasnife tabi tutulmamış sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli taşlar (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710410000000",
+                              "name": "Piezo -elektrik kuvartzları",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri (işlenmemiş veya basit bir şekilde kesilmiş veya kabaca  yontulmuş)",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710421",
+                                  "name": "Elmaslar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710421000011",
+                                      "name": "Sentetik olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710421000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "710429000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710491",
+                                  "name": "Elmaslar",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710491000011",
+                                      "name": "Sanayide kullanılanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710491000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "710499",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710499000011",
+                                      "name": "Sanayide kullanılanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710499000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7105",
+                          "name": "Tabii veya sentetik, kıymetli veya yarı kıymetli taşların toz ve pudraları:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710510",
+                              "name": "Elmastan olanlar",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710510000011",
+                                  "name": "Sanayide kullanılanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710510000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "710590",
+                              "name": "Diğerleri",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710590000011",
+                                  "name": "Sanayide kullanılanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710590000019",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7106",
+                          "name": "Gümüş (altın veya platin yaldızlı gümüş dahil) (işlenmemiş veya yarı işlenmiş ya da pudra halinde):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710610000000",
+                              "name": "Pudra halinde olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710691000000",
+                                  "name": "İşlenmemiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710692000000",
+                                  "name": "Yarı işlenmiş olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "710700",
+                          "name": "Gümüş kaplamalı adi metaller (işlenmemiş veya yarı işlenmiş)",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710700000011",
+                              "name": "İşlenmemiş gümüş kaplamalı metaller",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "710700000012",
+                              "name": "Yarı işlenmiş gümüş kaplamalı adi metaller",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7108",
+                          "name": "Altın (platin kaplamalı altın dahil) (işlenmemiş veya yarı işlenmiş ya da pudra halinde) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Para yerine kullanılmayanlar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "710811000000",
+                                  "name": "Pudra halinde olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "710812",
+                                  "name": "Diğer işlenmemiş şekillerde olanlar",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710812000012",
+                                      "name": "Standart dışı işlenmemiş altın",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710812000013",
+                                      "name": "Standart işlenmemiş altın",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "710813",
+                                  "name": "Diğer yarı işlenmiş şekillerde olanlar:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "710813100000",
+                                      "name": "Çubuklar, teller ve profiller, levhalar, yapraklar ve şeritler (mesnedi hariç, kalınlığı 0,15 mm. yi geçenler)",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "710813800000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "710820000000",
+                              "name": "Para yerine kullanılanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "710900",
+                          "name": "Altın kaplamalı gümüşler veya adi metaller (işlenmemiş veya yarı işlenmiş)",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "710900000011",
+                              "name": "Altın kaplamalı gümüşler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "710900000012",
+                              "name": "Altın kaplamalı adi metaller",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7110",
+                          "name": "Platin (işlenmemiş veya yarı işlenmiş ya da pudra halinde) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Platin:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711011000000",
+                                  "name": "İşlenmemiş veya pudra halinde",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711019",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Çubuklar, teller ve profiller, levhalar, yapraklar ve şeritler (mesnedi hariç, kalınlığı 0,15 mm. yi geçenler)",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "711019100011",
+                                          "name": "Platin ve platin alaşımlarından teller",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "711019100012",
+                                          "name": "Çubuk, profil, levha, yaprak ve şerit halinde olan platin ve platin alaşımları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711019800000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Paladyum:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711021000000",
+                                  "name": "İşlenmemiş veya pudra halinde olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711029000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Rodyum:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711031000000",
+                                  "name": "İşlenmemiş veya pudra halinde olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711039000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "İridyum, osmiyum ve rutenyum:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711041000000",
+                                  "name": "İşlenmemiş veya pudra halinde olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711049000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "711100",
+                          "name": "Platin kaplamalı altın, gümüş ve adi metaller (işlenmemiş veya yarı işlenmiş)",
+
+                          "node_type": "SUBHEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "711100000011",
+                              "name": "Platin kaplı adi metaller",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "711100000012",
+                              "name": "Platin kaplı gümüş",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "711100000013",
+                              "name": "Platin kaplı altın",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7112",
+                          "name": "Kıymetli metallerin veya kıymetli metallerle kaplama metallerin döküntüleri, artıkları; 85.49 pozisyonundaki eşya hariç olmak üzere kıymetli metal veya kıymetli metal bileşikleri içeren  ve esas olarak kıymetli metallerin geri kazanılmasında kullanılan türden olan diğer döküntü ve artıklar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "711230000000",
+                              "name": "Kıymetli metal veya kıymetli metal bileşiklerini içeren küller",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711291000000",
+                                  "name": "Altından olanlar (altın kaplamalı metaller dahil, fakat diğer kıymetli metalleri içeren kuyumcu külleri hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711292000000",
+                                  "name": "Platinden olanlar (platin kaplamalı metaller dahil, fakat diğer kıymetli metalleri içeren kuyumcu külleri hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711299",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711299001000",
+                                      "name": "Gümüş külleri, döküntüleri ve artıkları",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711299009000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7113",
+                          "name": "Mücevherci eşyası ve aksamı (kıymetli metallerden veya kıymetli metallerle kaplama metallerden):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711311",
+                                  "name": "Gümüşten olanlar (diğer kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın):",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711311000011",
+                                      "name": "Pırlantalı gümüşten olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711311000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "711319",
+                                  "name": "Diğer kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın)",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711319000011",
+                                      "name": "Altından olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711319000012",
+                                      "name": "Pırlantalı altından olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711319000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "711320000000",
+                              "name": "Kıymetli metallerle kaplama adi metallerden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7114",
+                          "name": "Kuyumcu eşyası ve aksamı (kıymetli metallerden veya kıymetli metallerle kaplama metallerden) :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711411000000",
+                                  "name": "Gümüşten olanlar (diğer kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711419",
+                                  "name": "Diğer kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya yaldızlanmış olsun olmasın)",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711419000011",
+                                      "name": "Altından olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711419000019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "711420000000",
+                              "name": "Kıymetli metallerle kaplama adi metallerden olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7115",
+                          "name": "Kıymetli metallerden veya kıymetli metallerle kaplama metallerden diğer eşya:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "711510000000",
+                              "name": "Platinden gözenekli dokuma veya ızgara şeklinde katalizörler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "711590",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711590000021",
+                                  "name": "Altından olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711590000022",
+                                  "name": "Gümüşten olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711590000029",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7116",
+                          "name": "Tabii inci veya kültür incilerinden, kıymetli ya da yarı kıymetli taşlardan eşya (tabii, sentetik veya terkip yoluyla elde edilmiş):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "711610",
+                              "name": "Tabii inci veya kültür incilerinden olanlar",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711610000011",
+                                  "name": "Tabii inciden kolyeler, bilezikler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711610000019",
+                                  "name": "Tabii inciden diğer eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711610000021",
+                                  "name": "Kültür incisinden kolyeler, bilezikler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711610000029",
+                                  "name": "Kültür incisinden diğer eşya",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "711620",
+                              "name": "Kıymetli veya yarı kıymetli taşlardan olanlar (tabii, sentetik veya terkip yoluyla elde edilmiş):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711620110000",
+                                  "name": "Sadece tabii kıymetli veya yarı kıymetli taşlardan kolyeler, bilezikler ve diğer eşya (basit bir şekilde dizilmiş) (klipssiz veya aksesuarsız)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711620800000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7117",
+                          "name": "Taklit mücevherci eşyası :",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Adi metallerden olanlar (kıymetli metallerle kaplanmış olsun olmasın):",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711711000000",
+                                  "name": "Kol düğmeleri ve benzeri düğmeler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711719",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "SUBHEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711719001000",
+                                      "name": "Bakırdan saat ve gözlük zinciri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri:",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "711719009011",
+                                          "name": "Camdan aksamı olanlar",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "",
+                                          "name": "Diğerleri:",
+
+                                          "node_type": "HEADING",
+                                          "description_detail": null
+                                        },
+                                        "children": [
+                                          {
+                                            "data": {
+                                              "code": "711719009021",
+                                              "name": "Altın, gümüş veya platinle kaplama olanlar",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "data": {
+                                              "code": "711719009029",
+                                              "name": "Diğerleri",
+
+                                              "node_type": "GTIP",
+                                              "description_detail": null
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "711790",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711790001000",
+                                  "name": "Plastik maddelerden ve camdan olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711790002000",
+                                  "name": "Ahşap olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711790003000",
+                                  "name": "Yontulmaya elverişli taşlardan olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Alçıdan veya esası alçı olan bileşiklerden olanlar; seramikten olanlar; işlenmiş bağa, sedef, fildişi, kemik, boynuz, mercan ve yontulmaya elverişli diğer hayvansal, bitkisel veya mineral maddelerden olanlar",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "711790004011",
+                                      "name": "Her nevi boynuzdan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004012",
+                                      "name": "Mercandan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004013",
+                                      "name": "İşlenmiş bağadan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004014",
+                                      "name": "İşlenmiş fildişinden olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004015",
+                                      "name": "İşlenmiş sedeften olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004016",
+                                      "name": "İşlenmiş kemikten olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "711790004019",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "711790005000",
+                                  "name": "Her türlü maddeden yapılmış kol düğmeleri ve diğer düğmeler (adi metaller hariç)",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711790009000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "7118",
+                          "name": "Metal paralar:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "711810",
+                              "name": "Tedavülde olmayan paralar (altın paralar hariç):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "711810001000",
+                                  "name": "Türk meskukatı",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "711810009000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "711890000000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+            ]
+        }
+]

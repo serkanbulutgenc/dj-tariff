@@ -1,0 +1,459 @@
+[
+    {
+            "data": {
+                "code": null,
+                "name": "XIX. Silahlar Ve Mühimmat; Bunların Aksam, Parça Ve Aksesuarı",
+                "node_type": "SECTION",
+                "description_detail": null
+
+            },
+            "children": [
+                {
+                    "data": {
+                      "code": "93",
+                      "name": "Silahlar Ve Mühimmat; Bunların Aksam, Parça Ve Aksesuarı",
+                      "node_type": "CHAPTER",
+                      "description_detail": null
+
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "code": "9301",
+                          "name": "Harp silahları (revolverler, tabancalar ve 93.07 pozisyonundaki silahlar hariç)",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "930110000000",
+                              "name": "Topçu silahları (örneğin, toplar, obüsler ve havanlar)",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "930120000000",
+                              "name": "Roket fırlatıcılar; alev-atıcılar; el bombası atıcıları; torpil tüpleri ve benzeri fırlatıcılar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "930190000000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "930200000000",
+                          "name": "Revolverler ve tabancalar ( 93.03 veya 93.04 pozisyonundakiler hariç):",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "9303",
+                          "name": "Bir patlayıcının itiş gücü ile çalışan diğer ateşli silahlar ve benzeri cihazlar ( spor için av tüfekleri ve tüfekler, ağızdan doldurulan ateşli silahlar, sadece işaret fişeği atmak üzere imal edilmiş tabanca ve diğer cihazlar, manevra fişeği atmak için tabanca ve revolverler, hayvan öldürmeye mahsus sürgülü silahlar, ok-atar tüfekler gibi):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "930310000000",
+                              "name": "Ağızdan doldurmalı ateşli silahlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "930320",
+                              "name": "Diğer spor, av veya hedef için yivsiz tüfekler (yivli-yivsiz kombine namlulu olanlar dahil):",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "930320100000",
+                                  "name": "Yivsiz, tek namlulular",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "930320950000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "930330000000",
+                              "name": "Diğer spor, av veya hedef için yivli tüfekler",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "930390000000",
+                              "name": "Diğerleri",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "930400000000",
+                          "name": "Diğer silahlar ( yaylı, havalı veya gazlı tüfek ve tabancalar, vuruş sopaları gibi) ( 93.07 pozisyonundakiler hariç)",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "code": "9305",
+                          "name": "93.01 ila 93.04 Pozisyonlarında yer alan eşyanın aksam, parça ve aksesuarları:",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "930510000000",
+                              "name": "Revolverler ve tabancalara ait olanlar",
+
+                              "node_type": "GTIP",
+                              "description_detail": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "93.03 Pozisyonundaki tüfeklere ait olanlar:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "930520001000",
+                                  "name": "Sertleştirilmemiş vulkanize kauçuktan olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "930520009000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Diğerleri:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "930591000000",
+                                  "name": "93.01 Pozisyonundaki harp silahlarına ait olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri :",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "930599001000",
+                                      "name": "Sertleştirilmemiş vulkanize kauçuktan olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "930599009011",
+                                          "name": "Dipçik taslakları",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "930599009019",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "9306",
+                          "name": "Bombalar, el bombaları, torpidolar, mayınlar, güdümlü mermiler ve benzeri harp mühimmatı ve bunların aksam ve parçaları; fişekler ve diğer mühimmat ve mermiler ve bunların aksam ve parçala rı (saçmalar, fişek barut sıkıştırıcıları dahil):",
+
+                          "node_type": "HEADING",
+                          "description_detail": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "code": "",
+                              "name": "Av tüfekleri için fişekler ve bunların aksam ve parçaları; havalı silah kurşunları:",
+
+                              "node_type": "HEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "930621000000",
+                                  "name": "Fişekler",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "930629000000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "930630",
+                              "name": "Diğer fişekler ve bunların aksam ve parçaları:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "93.02 Pozisyonundaki revolverler ve tabancalar ile 93.01 pozisyonun daki hafif makinalı tabancalara ait olanlar:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "930630101000",
+                                      "name": "93.01 Pozisyonundaki hafif makinalı tabancalara ait olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "930630109000",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "data": {
+                                  "code": "",
+                                  "name": "Diğerleri:",
+
+                                  "node_type": "HEADING",
+                                  "description_detail": null
+                                },
+                                "children": [
+                                  {
+                                    "data": {
+                                      "code": "930630300000",
+                                      "name": "Harp silahlarına ait olanlar",
+
+                                      "node_type": "GTIP",
+                                      "description_detail": null
+                                    },
+                                    "children": []
+                                  },
+                                  {
+                                    "data": {
+                                      "code": "",
+                                      "name": "Diğerleri",
+
+                                      "node_type": "HEADING",
+                                      "description_detail": null
+                                    },
+                                    "children": [
+                                      {
+                                        "data": {
+                                          "code": "930630900010",
+                                          "name": "Perçinleme veya benzeri alet veya sürgülü hayvan öldürücüler için fişekler",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      },
+                                      {
+                                        "data": {
+                                          "code": "930630900090",
+                                          "name": "Diğerleri",
+
+                                          "node_type": "GTIP",
+                                          "description_detail": null
+                                        },
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "data": {
+                              "code": "930690",
+                              "name": "Diğerleri:",
+
+                              "node_type": "SUBHEADING",
+                              "description_detail": null
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "code": "930690100000",
+                                  "name": "Harp silahlarına ait olanlar",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              },
+                              {
+                                "data": {
+                                  "code": "930690900000",
+                                  "name": "Diğerleri",
+
+                                  "node_type": "GTIP",
+                                  "description_detail": null
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "code": "930700000000",
+                          "name": "Kılıçlar, palalar, süngüler, mızraklar ve benzeri silahlar ve bunların aksam ve parçaları ve bunların kın ve kılıfları",
+
+                          "node_type": "GTIP",
+                          "description_detail": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+            ]
+        }
+]
