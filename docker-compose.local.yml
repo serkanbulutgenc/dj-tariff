@@ -3,7 +3,6 @@ volumes:
   dj_tariff_local_postgres_data_backups: {}
   es_data: {}
 
-
 services:
   django:
     build:
@@ -38,7 +37,7 @@ services:
       - ./.envs/.local/.postgres
 
   elasticsearch:
-    image: docker.elastic.co/elasticsearch/elasticsearch:9.5.0
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.19.19
     container_name: dj_tariff_local_elasticsearch
     environment:
       - discovery.type=single-node

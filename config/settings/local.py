@@ -15,6 +15,20 @@ SECRET_KEY = env(
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
 ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]  # noqa: S104
 
+<<<<<<< HEAD
+=======
+# CORSHEADERS
+# ------------------------------------------------------------------------------
+# https://pypi.org/project/django-cors-headers/
+# CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOWED_ORIGINS = [
+#     "http://localhost:3000",
+#     "http://127.0.0.1:8000",
+#     "http://localhost:8000",
+#     "http://127.0.0.1:3000",
+# ]
+
+>>>>>>> eb1e4f9 (Update configuration and dependencies for improved functionality)
 # CACHES
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#caches
@@ -35,9 +49,13 @@ ELASTICSEARCH_DSL = {
     "default": {
         "hosts": "http://elasticsearch:9200",
         "http_auth": (
-            env("ELASTICSEARCH_USERNAME", default="elastic"),
-            env("ELASTICSEARCH_PASSWORD"),
+            env("ELASTIC_USERNAME", default="elastic"),
+            env("ELASTIC_PASSWORD"),
         ),
+        "headers": {
+            "Accept": "application/vnd.elasticsearch+json; compatible-with=8",
+            "Content-Type": "application/vnd.elasticsearch+json; compatible-with=8",
+        },
     },
 }
 

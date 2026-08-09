@@ -2,13 +2,13 @@ import json
 import time
 from pathlib import Path
 
-# from django_elasticsearch_dsl.registries import registry
 from apps.tariffs.models import (
     TariffNode,  # Replace 'your_app' with your actual app name
 )
 from django.core.management.base import BaseCommand
 from django.core.management.base import CommandError
 from django.db import transaction
+from django_elasticsearch_dsl.registries import registry
 
 
 class Command(BaseCommand):
@@ -56,15 +56,15 @@ class Command(BaseCommand):
             raw_tree_data = json.load(f)
 
         start_time = time.time()
-        """
         # 2. Disable Elasticsearch auto-sync during bulk processing
         registry.asynchronous = False  # Ensure sync mode if async was enabled
         # We temporarily unregister the document to prevent signal listeners from firing on save
         elasticsearch_enabled = False
         try:
-            from your_app.documents import TariffNodeDocument
+            from apps.tariffs.documents import TariffNodeDocument  # noqa
 
-            registry.unregister(TariffNodeDocument)
+            registry.delete(TariffNodeDocument)
+
             elasticsearch_enabled = True
             self.stdout.write(
                 self.style.WARNING(
@@ -77,7 +77,6 @@ class Command(BaseCommand):
                     "Elasticsearch document not registered or missing; skipping auto-sync pause."
                 )
             )
-        """
 
         try:
             with transaction.atomic():
@@ -108,24 +107,22 @@ class Command(BaseCommand):
             raise CommandError(f"Error during treebeard bulk seeding: {e!s}")
 
         finally:
-            pass
             # Re-register Elasticsearch document
-            # if elasticsearch_enabled:
-            #     from your_app.documents import TariffNodeDocument
+            if elasticsearch_enabled:
+                from apps.tariffs.documents import TariffNodeDocument  # noqa
 
-            #     registry.register_document(TariffNodeDocument)
-        """
+                registry.register_document(TariffNodeDocument)
         # 3. Optional Elasticsearch Bulk Indexing Step
         if elasticsearch_enabled and not skip_es:
             self.stdout.write(
                 self.style.MIGRATE_HEADING(
                     "Rebuilding Elasticsearch index for TariffNode..."
-                )
+                ),
             )
             es_start_time = time.time()
 
             # Reindex via django-elasticsearch-dsl Document update
-            from your_app.documents import TariffNodeDocument
+            from apps.tariffs.documents import TariffNodeDocument  # noqa
 
             doc = TariffNodeDocument()
             doc.get_indexing_queryset()
@@ -137,7 +134,6 @@ class Command(BaseCommand):
                     f"Elasticsearch index rebuilt successfully in {elapsed_es:.2f}s."
                 )
             )
-        """
         total_nodes = TariffNode.objects.count()
         self.stdout.write(
             self.style.SUCCESS(

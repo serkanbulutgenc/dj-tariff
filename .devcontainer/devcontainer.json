@@ -53,7 +53,8 @@
                 "ms-python.vscode-pylance",
                 "charliermarsh.ruff",
                 // django
-                "batisteo.vscode-django"
+                "batisteo.vscode-django",
+                "humao.rest-client"
             ]
         }
     },

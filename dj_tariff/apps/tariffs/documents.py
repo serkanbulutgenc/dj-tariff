@@ -46,4 +46,5 @@ class TariffNodeDocument(Document):
 
     class Django:
         model = TariffNode
+        queryset_pagination = 1000
         fields = ["id"]

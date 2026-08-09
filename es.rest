@@ -1,0 +1,31 @@
+### Get cluster health
+GET http://elasticsearch:9200/_health_report HTTP/1.1
+
+### Get all indices
+GET http://elasticsearch:9200/_cat/indices?v&pretty HTTP/1.1
+
+### Get a specific tariff_node
+GET http://elasticsearch:9200/tariff_nodes/_doc/15555 HTTP/1.1
+
+
+### Get count of tariff_nodes
+GET http://elasticsearch:9200/tariff_nodes/_count HTTP/1.1
+
+### Get count of tariff_nodes
+GET http://elasticsearch:9200/tariff_nodes/_source/15555 HTTP/1.1
+
+### Search for tariff_nodes
+GET http://elasticsearch:9200/tariff_nodes/_search HTTP/1.1 
+Content-Type: application/json
+
+{
+  "query": {
+    "multi_match":{
+      "query":"elma",
+      "fields":["code^2","name"]
+    }
+  }
+}
+
+### Mapping for tariff_nodes
+GET http://elasticsearch:9200/tariff_nodes/_mapping HTTP/1.1

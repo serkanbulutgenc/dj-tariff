@@ -25,9 +25,11 @@ def get_tree_nodes(request, parent_id: int | None = None):
     return TariffNode.get_root_nodes()
 
 
+"""
 @router.get("/{code}", response=TariffNodeDetailSchema)
 def get_tariff_by_code(request, code: str):
     return get_object_or_404(TariffNode, code=code)
+"""
 
 
 @router.get("/{code}/ancestors", response=list[TariffNodeBaseSchema])
@@ -50,7 +52,7 @@ def search_tariffs(
     search_query = Q(
         "multi_match",
         query=q,
-        fields=["code^3", "code.suggest^2", "name"],
+        fields=["code^3", "code^2", "name"],
         fuzziness="AUTO",
     )
 

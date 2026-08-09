@@ -4,7 +4,7 @@ from ninja.security import SessionAuth
 
 api = NinjaAPI(
     urls_namespace="api",
-    auth=SessionAuth(),
+    # auth=SessionAuth(),
     docs_decorator=staff_member_required,
 )
 

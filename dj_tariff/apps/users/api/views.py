@@ -7,11 +7,12 @@ from apps.users.api.schema import UserSchema
 from apps.users.models import User
 from django.shortcuts import get_object_or_404
 from ninja import Router
+from ninja.security import SessionAuth
 
 if TYPE_CHECKING:
     from django.db.models import QuerySet
 
-router = Router(tags=["users"])
+router = Router(tags=["users"], auth=SessionAuth())
 
 
 def _get_users_queryset(request) -> QuerySet[User]:
