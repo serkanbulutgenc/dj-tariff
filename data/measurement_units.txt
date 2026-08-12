@@ -1,0 +1,30 @@
+GT              : Gross ton
+c/k              : Karat (1 metrik karat=2*10-4 kg)
+ce/el              : Hücre adedi
+ct/l              : Ton başına taşıma kapasitesi(1)
+g              : Gram
+gi F/S              : Gram olarak fissile izotop
+kg H2O2              : Kilogram olarak Hidrojen peroksit
+kg K2O              : Kilogram olarak Potasyum oksit
+kg KOH              : Kilogram olarak Potasyum hidroksit (kostik potas)
+kg met.am.              : Kilogram olarak Metil aminler
+kg N              : Kilogram olarak Azot
+Kg NaOH              : Kilogram olarak Sodyum hidroksit (kostik soda)
+kg/net eda              : Kilogram olarak kurutulmuş net ağırlık
+kg P2O5              : Kilogram olarak Difosfor pentaoksit
+kg %90 sdt              : Kilogram olarak % 90 kuru ürün
+kg U              : Kilogram olarak Uranyum
+1000 kWh              : 1000 kilovat saat
+l              : Litre
+Kg C5H14CINO              : Kilogram olarak Kolin klorür
+l alc. %100              : Litre olarak saf alkol (%100)
+m              : Metre
+m2              : Metre kare
+m3              : Metre küp
+1000 m3              : 1000 Metre küp
+p/a              : Çift
+p/st              : Adet
+100 p/st              : 100 Adet
+1000 p/st              : 1000 Adet
+TJ              : Terajul (Brüt kalori değeri)
+t. CO2 : Ton CO2 (karbon dioksit) eşdeğeri 
