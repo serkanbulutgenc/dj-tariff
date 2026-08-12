@@ -35,6 +35,7 @@ dependencies = [
   "uvicorn-worker==0.4.0",
   "whitenoise==6.12.0",
   "django-elasticsearch-dsl>=8.0.0,<9.0.0",
+  "django-easymde>=1.0.4",
 ]
 
 [dependency-groups]
@@ -79,6 +80,7 @@ js.indent_size = 2
 # ==== ruff ====
 [tool.ruff]
 # Exclude a variety of commonly ignored directories.
+line-length=120
 extend-exclude = [
   "*/migrations/*.py",
   "staticfiles/*",
@@ -137,6 +139,7 @@ lint.ignore = [
   "RUF012", # Mutable class attributes should be annotated with `typing.ClassVar`
   "S101",   # Use of assert detected https://docs.astral.sh/ruff/rules/assert/
   "SIM102", # sometimes it's better to nest
+  "PLC0415",# Top level import
   # of types for comparison.
   # Deactivated because it can make the code slow:
   # https://github.com/astral-sh/ruff/issues/7871

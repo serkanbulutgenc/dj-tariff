@@ -93,6 +93,7 @@ THIRD_PARTY_APPS = [
     "allauth.socialaccount",
     "corsheaders",
     "treebeard",
+    "easymde",
 ]
 
 LOCAL_APPS = [
@@ -299,3 +300,13 @@ SOCIALACCOUNT_FORMS = {"signup": "apps.users.forms.UserSocialSignupForm"}
 
 # Your stuff...
 # ------------------------------------------------------------------------------
+
+# EASYMDE
+# ------------------------------------------------------------------------------
+
+EASYMDE_OPTIONS = {
+    "placeholder": "Type here...",
+    "status": False,
+    "autosave": {"enabled": True},
+    "spellChecker": False,
+}

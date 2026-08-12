@@ -18,8 +18,7 @@ class TariffNode(MP_Node):
         max_length=12,
         db_index=True,
         blank=True,
-        null=True,
-        help_text="Unformatted code (e.g., 010121000000). Null for Sections.",
+        help_text="Unformatted code (e.g., 010121000000). Empty for Sections.",
     )
     name = models.TextField(help_text="Official Turkish description")
     node_type = models.CharField(max_length=15, choices=NodeType.choices)
@@ -84,6 +83,7 @@ class TariffCodeDetail(models.Model):
         max_digits=5,
         decimal_places=2,
         validators=[MinValueValidator(0), MaxValueValidator(100)],
+        default=0.0,
         help_text="Tax rate as a percentage.",
     )
     measurement_unit = models.CharField(
@@ -98,8 +98,8 @@ class TariffCodeDetail(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        verbose_name = "Custom Tariff Code"
-        verbose_name_plural = "Custom Tariff Codes"
+        verbose_name = "Tariff Detail"
+        verbose_name_plural = "Tariff Details"
         ordering = ["tariff_node__code"]
 
     def __str__(self):
