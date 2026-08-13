@@ -1,9 +1,25 @@
+import re
+
+from django.core.exceptions import ValidationError
 from django.core.validators import MaxValueValidator
 from django.core.validators import MinValueValidator
 from django.db import models
 
 # Create your models here.
 from treebeard.mp_tree import MP_Node
+
+
+def validate_binding_number(value):
+    """
+    Validate binding tariff information number format.
+    Format: TR + 12 digits (e.g., TR340000250097)
+    """
+    pattern = r"^TR\d{12}$"
+    if not re.match(pattern, value):
+        raise ValidationError(
+            "Binding number must follow the format: TR followed by 12 digits (e.g., TR340000250097)",
+            code="invalid_binding_number_format",
+        )
 
 
 class TariffNode(MP_Node):
@@ -91,9 +107,7 @@ class TariffCodeDetail(models.Model):
         choices=MeasurementUnit.choices,
         help_text="Measurement unit for this tariff entry.",
     )
-    notes = models.TextField(
-        blank=True, help_text="Optional notes for this tariff entry."
-    )
+    notes = models.TextField(blank=True, help_text="Optional notes for this tariff entry.")
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
@@ -104,3 +118,63 @@ class TariffCodeDetail(models.Model):
 
     def __str__(self):
         return f"{self.tariff_node.code or self.tariff_node} - {self.tax_rate}%"
+
+
+class BindingTariffInformation(models.Model):
+    """
+    Model for storing binding tariff information.
+    Only GTIP node types can have binding tariff information.
+    """
+
+    tariff_node = models.OneToOneField(
+        TariffNode,
+        on_delete=models.CASCADE,
+        related_name="binding_tariff_info",
+        help_text="GTIP tariff node associated with this binding tariff information.",
+    )
+    binding_number = models.CharField(
+        max_length=14,
+        unique=True,
+        validators=[validate_binding_number],
+        help_text="Binding tariff information number (format: TR followed by 12 digits, e.g., TR340000250097).",
+    )
+    valid_from = models.DateField(
+        help_text="Date from which this binding tariff information is valid.",
+    )
+    reasoning = models.TextField(
+        blank=True,
+        help_text="Reasoning for this binding tariff information.",
+    )
+    description = models.TextField(
+        blank=True,
+        help_text="Description text for this binding tariff information.",
+    )
+    created_at = models.DateTimeField(auto_now_add=True, editable=False)
+    updated_at = models.DateTimeField(auto_now=True, editable=False)
+
+    class Meta:
+        verbose_name = "Binding Tariff Information"
+        verbose_name_plural = "Binding Tariff Information"
+        ordering = ["-valid_from", "binding_number"]
+        indexes = [
+            models.Index(fields=["binding_number"]),
+            models.Index(fields=["valid_from"]),
+        ]
+
+    def __str__(self):
+        return f"Binding {self.binding_number} - {self.tariff_node.code}"
+
+    def clean(self):
+        """Validate that only GTIP node types can have binding tariff information."""
+        from django.core.exceptions import ValidationError
+
+        if self.tariff_node and self.tariff_node.node_type != TariffNode.NodeType.GTIP:
+            raise ValidationError(
+                f"Only GTIP node types can have binding tariff information. "
+                f"This node is of type: {self.tariff_node.get_node_type_display()}"
+            )
+
+    def save(self, *args, **kwargs):
+        """Call clean() before saving to enforce validation."""
+        self.clean()
+        super().save(*args, **kwargs)
